@@ -8,7 +8,7 @@ This section presents key evaluation metrics and visual insights from the sentim
 
 This radar chart compares four error metrics — MAE, MSE, MAD, and RMSE — across all models. A more compact shape indicates better performance.
 
-![Radar Chart](visualizations/plots/plot_0)
+![Radar Chart](visualizations/plots/plot_0.png)
 
 ---
 
