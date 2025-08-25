@@ -1,6 +1,6 @@
 # Influencer Marketing Sentiment Analysis with Emojis 🧠📊✨
 
-While social media metrics often focus on followers, likes, shares, and subscribers, **user comments** are an often overlooked data source that can provide valuable insights into audience sentiment toward influencers — crucial when recruiting influencers for marketing campaigns. Ideally, higher levels of positive sentiment would reflect better audience perception of products promoted by the influencer, and vice versa.
+While social media metrics often focus on followers, likes, shares, and subscribers, **user comments** are an often overlooked data source that can provide valuable insights into audience sentiment toward influencers - crucial when recruiting influencers for marketing campaigns. Ideally, higher levels of positive sentiment would reflect better audience perception of products promoted by the influencer, and vice versa.
 
 Moreover, in sentiment analysis, **emojis** have become increasingly important as a medium for users to convey nuanced emotions and attitudes.
 
