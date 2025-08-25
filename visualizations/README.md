@@ -12,11 +12,16 @@ These Histogram charts compares models sentiment classification both with emojis
 
 ---
 
-## 📏 Bar Plot: Mean Absolute Error (MAE)
+## Model Errors
 
-Shows the average deviation from actual survey responses for each model.
+MAE, MAD, MSE, RMSE for all models with and without emojis in a Radial chart (tighter fit indicates lower error)
 
-![MAE Bar Plot](visualizations/plot_1.png)
+![Error Bar Plot](Plots/plot_3.png)
+![Error Bar Plot](Plots/plot_6.png)
+
+Accuracy, Precision, Recall and F1 Scores from actual survey responses for each model.
+
+![APRF Bar Plot](Plots/plot_13.png)
 
 ---
 
