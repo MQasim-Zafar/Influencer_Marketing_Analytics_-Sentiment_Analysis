@@ -18,7 +18,7 @@ Two core Jupyter Notebooks drive this analysis:
 
 
 Analysis_and_Visualisations.ipynb
-Comparison_of_effect_of_emojis_on_sentiment_analysis_(BERT_and_RoBERTa)_CLEAN.ipynb
+Sentiment_Analyiss_distilBERT_and_RoBERTa.ipynb
 README.md
 
 
@@ -66,7 +66,7 @@ Then open each of the notebooks, explore the content, and run the cells sequenti
 # Notebook Highlights
 ## Analysis_and_Visualisations.ipynb
 
-Loads the dataset (provide instructions if a dataset is needed).
+Conducts descriptive analysis of processed data
 
 Visualizes sentiment distribution across posts.
 
@@ -78,7 +78,7 @@ Includes charts that illustrate sentiment trends and patterns.
 
 Preprocesses text data, with and without emojis.
 
-Runs fine-tuned BERT and RoBERTa models on both versions.
+Runs fine-tuned distilBERT and RoBERTa models on both versions.
 
 Compares classification performance through metrics and charts.
 
