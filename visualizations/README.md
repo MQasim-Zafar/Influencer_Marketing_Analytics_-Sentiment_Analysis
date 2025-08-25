@@ -24,31 +24,6 @@ Accuracy, Precision, Recall and F1 Scores from actual survey responses for each 
 
 ![APRF Bar Plot](Plots/plot_13.png)
 
----
-
-## ⚖️ Bar Plot: Mean Squared Error (MSE)
-
-MSE gives greater weight to larger errors. Lower values reflect higher model accuracy.
-
-![MSE Bar Plot](visualizations/plot_2.png)
-
----
-
-## 🔍 Scatter Plot: Predictions vs Actuals
-
-Visual comparison of predicted scores vs real sentiment scores. The closer to the diagonal line, the more accurate the prediction.
-
-![Scatter Plot](visualizations/plot_3.png)
-
----
-
-## 📈 Line Plot: Sentiment Trends Over Responses
-
-This line plot captures how sentiment predictions vary across the sequence of influencer responses.
-
-![Line Plot](visualizations/plot_4.png)
-
----
 
 ## 📦 Influencer Rankings by Mean Scores across Models
 
