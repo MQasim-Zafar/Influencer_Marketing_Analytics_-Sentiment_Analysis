@@ -34,14 +34,16 @@ The following bar chart shows Accuracy, Precision, Recall, and F1 Score based on
 
 ![APRF Bar Plot](Plots/plot_13.png)
 
-## 📦 Box Plot: Model-Based Influencer Rankings (Test Set)
 
-This box plot compares how each model ranks influencers based on average sentiment scores from the test set, highlighting consistency and variability across models. It allows visual analysis of alignment (or misalignment) with survey rankings.
+## 🏆 Final Influencer Rankings Across Models
+
+# 📦 Box Plot: Model-Based Influencer Rankings
+
+This box plot compares how each model ranks influencers based on average sentiment scores from the test set, highlighting consistency and variability across models.
 
 ![BoxPlot](Plots/plot_31.png)
 
-
-## 🏆 Final Influencer Rankings Across Models (Full Dataset)
+# Mean Sentiment Bar Charts
 
 The final visualizations below show how influencer rankings shift depending on the sentiment model used:
 
