@@ -1,6 +1,6 @@
 # 📊 Influencer Sentiment Analysis – Visualizations
 
-This section presents key evaluation metrics and visual insights from the sentiment analysis models — VADER, BERT, and RoBERTa — used in this research. Both emoji-enhanced and emoji-removed inputs were analyzed to assess model performance relative to human-labeled survey scores.
+This section presents key evaluation metrics and visual insights from the sentiment analysis models (VADER-lexicon/rule-based approach , BERT and RoBERTa - neural nets) used in this research. Both emoji-enhanced and emoji-removed inputs were analyzed to assess model performance relative to human-labeled survey scores.
 
 ---
 
@@ -37,13 +37,13 @@ The following bar chart shows Accuracy, Precision, Recall, and F1 Score based on
 
 ## 🏆 Final Influencer Rankings Across Models
 
-# 📦 Box Plot: Model-Based Influencer Rankings
+### 📦 Box Plot: Model-Based Influencer Rankings
 
 This box plot compares how each model ranks influencers based on average sentiment scores from the test set, highlighting consistency and variability across models.
 
 ![BoxPlot](Plots/plot_31.png)
 
-# Mean Sentiment Bar Charts
+### 📊 Bar Charts: Mean Sentiment
 
 The final visualizations below show how influencer rankings shift depending on the sentiment model used:
 
