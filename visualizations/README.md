@@ -14,7 +14,8 @@ These Histogram charts compares models sentiment classification both with emojis
 
 ## Model Errors
 
-MAE, MAD, MSE, RMSE for all models with and without emojis in a Radial chart (tighter fit indicates lower error)
+MAE, MAD, MSE, RMSE for all models with and without emojis in a Radial chart.
+Tighter fit indicates lower error so RoBERTa outperforms other models both with and without Emojis.
 
 ![Error Bar Plot](Plots/plot_3.png)
 ![Error Bar Plot](Plots/plot_6.png)
