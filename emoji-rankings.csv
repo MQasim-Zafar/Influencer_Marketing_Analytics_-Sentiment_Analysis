@@ -1,0 +1,757 @@
+﻿Char,Image,Unicode,Neg,Neut,Pos,Compound,Name,Block,Denorm_Sentiment
+😂,😂,0x1f602,0.247,0.285,0.468,0.221,face with tears of joy,Emoticons,0.877629762
+❤,❤,0x2764,0.044,0.166,0.79,0.746,heavy black heart,Dingbats,4.338558712
+♥,♥,0x2665,0.035,0.272,0.693,0.657,black heart suit,Miscellaneous Symbols,3.375224656
+😍,😍,0x1f60d,0.052,0.219,0.729,0.678,smiling face with heart-shaped eyes,Emoticons,3.572328672
+😭,😭,0x1f62d,0.436,0.22,0.343,-0.093,loudly crying face,Emoticons,-0.361755259
+😘,😘,0x1f618,0.053,0.193,0.754,0.701,face throwing a kiss,Emoticons,3.806938812
+😊,😊,0x1f60a,0.06,0.237,0.704,0.644,smiling face with smiling eyes,Emoticons,3.260285191
+👌,👌,0x1f44c,0.094,0.249,0.657,0.563,ok hand sign,Miscellaneous Symbols and Pictographs,2.638358559
+💕,💕,0x1f495,0.042,0.285,0.674,0.632,two hearts,Miscellaneous Symbols and Pictographs,3.158484291
+👏,👏,0x1f44f,0.104,0.271,0.624,0.52,clapping hands sign,Miscellaneous Symbols and Pictographs,2.357797813
+😁,😁,0x1f601,0.127,0.296,0.577,0.449,grinning face with smiling eyes,Emoticons,1.946175399
+☺,☺,0x263a,0.062,0.218,0.72,0.657,smiling face,Miscellaneous Symbols,3.375224656
+♡,♡,0x2661,0.052,0.227,0.721,0.669,heart suit,Miscellaneous Symbols,3.486017653
+👍,👍,0x1f44d,0.115,0.248,0.637,0.521,thumbs up sign,Miscellaneous Symbols and Pictographs,2.364019144
+😩,😩,0x1f629,0.591,0.186,0.223,-0.368,weary face,Emoticons,-1.532822478
+🙏,🙏,0x1f64f,0.081,0.421,0.498,0.417,person with folded hands,Emoticons,1.776897932
+✌,✌,0x270c,0.113,0.31,0.576,0.463,victory hand,Dingbats,2.023099835
+😏,😏,0x1f60f,0.112,0.444,0.444,0.332,smirking face,Emoticons,1.363149126
+😉,😉,0x1f609,0.1,0.337,0.563,0.463,winking face,Emoticons,2.023099835
+🙌,🙌,0x1f64c,0.101,0.238,0.661,0.559,person raising both hands in celebration,Emoticons,2.611049379
+🙈,🙈,0x1f648,0.164,0.241,0.596,0.432,see-no-evil monkey,Emoticons,1.855169944
+💪,💪,0x1f4aa,0.072,0.301,0.627,0.555,flexed biceps,Miscellaneous Symbols and Pictographs,2.584005362
+😄,😄,0x1f604,0.137,0.305,0.558,0.421,smiling face with open mouth and smiling eyes,Emoticons,1.79759315
+😒,😒,0x1f612,0.591,0.192,0.217,-0.374,unamused face,Emoticons,-1.561840566
+💃,💃,0x1f483,0.045,0.177,0.779,0.734,dancer,Miscellaneous Symbols and Pictographs,4.185779287
+💖,💖,0x1f496,0.043,0.201,0.755,0.712,sparkling heart,Miscellaneous Symbols and Pictographs,3.927150085
+😃,😃,0x1f603,0.072,0.299,0.629,0.557,smiling face with open mouth,Emoticons,2.597494612
+😔,😔,0x1f614,0.464,0.219,0.318,-0.146,pensive face,Emoticons,-0.571580286
+😱,😱,0x1f631,0.264,0.282,0.454,0.19,face screaming in fear,Emoticons,0.749520025
+🎉,🎉,0x1f389,0.039,0.184,0.777,0.738,party popper,Miscellaneous Symbols and Pictographs,4.235712354
+😜,😜,0x1f61c,0.112,0.322,0.566,0.455,face with stuck-out tongue and winking eye,Emoticons,1.978915629
+☯,☯,0x262f,0.006,0.987,0.007,0.001,yin yang,Miscellaneous Symbols,0.003872985
+🌸,🌸,0x1f338,0.04,0.27,0.69,0.65,cherry blossom,Miscellaneous Symbols and Pictographs,3.312706744
+💜,💜,0x1f49c,0.045,0.257,0.699,0.654,purple heart,Miscellaneous Symbols and Pictographs,3.348247674
+💙,💙,0x1f499,0.033,0.204,0.763,0.73,blue heart,Miscellaneous Symbols and Pictographs,4.136790772
+✨,✨,0x2728,0.052,0.545,0.403,0.351,sparkles,Dingbats,1.451786398
+😳,😳,0x1f633,0.327,0.327,0.345,0.018,flushed face,Emoticons,0.069724997
+💗,💗,0x1f497,0.051,0.241,0.708,0.657,growing heart,Miscellaneous Symbols and Pictographs,3.375224656
+★,★,0x2605,0.031,0.655,0.314,0.283,black star,Miscellaneous Symbols,1.142770864
+█,█,0x2588,0.09,0.853,0.057,-0.032,full block,Block Elements,-0.123998971
+☀,☀,0x2600,0.028,0.479,0.493,0.465,black sun with rays,Miscellaneous Symbols,2.034243229
+😡,😡,0x1f621,0.532,0.108,0.36,-0.173,pouting face,Emoticons,-0.680283554
+😎,😎,0x1f60e,0.106,0.297,0.597,0.491,smiling face with sunglasses,Emoticons,2.182877723
+😢,😢,0x1f622,0.384,0.225,0.391,0.007,crying face,Emoticons,0.027111548
+💋,💋,0x1f48b,0.039,0.231,0.73,0.691,kiss mark,Miscellaneous Symbols and Pictographs,3.70230875
+😋,😋,0x1f60b,0.046,0.277,0.677,0.631,face savouring delicious food,Emoticons,3.150176049
+🙊,🙊,0x1f64a,0.135,0.272,0.593,0.459,speak-no-evil monkey,Emoticons,2.000930649
+😴,😴,0x1f634,0.422,0.237,0.341,-0.08,sleeping face,Emoticons,-0.310834936
+🎶,🎶,0x1f3b6,0.097,0.27,0.634,0.537,multiple musical notes,Miscellaneous Symbols and Pictographs,2.46542892
+💞,💞,0x1f49e,0.041,0.18,0.78,0.739,revolving hearts,Miscellaneous Symbols and Pictographs,4.248347402
+😌,😌,0x1f60c,0.141,0.237,0.623,0.482,relieved face,Emoticons,2.130608651
+🔥,🔥,0x1f525,0.124,0.613,0.263,0.139,fire,Miscellaneous Symbols and Pictographs,0.54362196
+💯,💯,0x1f4af,0.281,0.317,0.402,0.12,hundred points symbol,Miscellaneous Symbols and Pictographs,0.468140838
+🔫,🔫,0x1f52b,0.493,0.209,0.298,-0.194,pistol,Miscellaneous Symbols and Pictographs,-0.765909886
+💛,💛,0x1f49b,0.043,0.205,0.752,0.709,yellow heart,Miscellaneous Symbols and Pictographs,3.893806259
+💁,💁,0x1f481,0.192,0.29,0.518,0.326,information desk person,Miscellaneous Symbols and Pictographs,1.335554206
+💚,💚,0x1f49a,0.078,0.189,0.733,0.656,green heart,Miscellaneous Symbols and Pictographs,3.366201285
+♫,♫,0x266b,0.063,0.586,0.351,0.287,beamed eighth notes,Miscellaneous Symbols,1.160361973
+😞,😞,0x1f61e,0.479,0.161,0.361,-0.118,disappointed face,Emoticons,-0.46022737
+😆,😆,0x1f606,0.155,0.281,0.564,0.409,smiling face with open mouth and tightly-closed eyes,Emoticons,1.735880004
+😝,😝,0x1f61d,0.132,0.313,0.555,0.423,face with stuck-out tongue and tightly-closed eyes,Emoticons,1.807988402
+😪,😪,0x1f62a,0.431,0.219,0.351,-0.08,sleepy face,Emoticons,-0.310834936
+�,�,0xfffd,0.166,0.581,0.253,0.086,replacement character,Specials,0.33431516
+😫,😫,0x1f62b,0.485,0.174,0.34,-0.145,tired face,Emoticons,-0.567580977
+😅,😅,0x1f605,0.292,0.237,0.471,0.178,smiling face with open mouth and cold sweat,Emoticons,0.70057894
+👊,👊,0x1f44a,0.265,0.243,0.492,0.228,fisted hand sign,Miscellaneous Symbols and Pictographs,0.906927651
+💀,💀,0x1f480,0.468,0.27,0.261,-0.207,skull,Miscellaneous Symbols and Pictographs,-0.819456202
+😀,😀,0x1f600,0.086,0.26,0.654,0.568,grinning face,Emoticons,2.672877546
+😚,😚,0x1f61a,0.049,0.192,0.759,0.71,kissing face with closed eyes,Emoticons,3.904873094
+😻,😻,0x1f63b,0.069,0.243,0.688,0.619,smiling cat face with heart-shaped eyes,Emoticons,3.052462704
+©,©,0xa9,0.131,0.621,0.248,0.117,copyright sign,Latin-1 Supplement,0.456272772
+👀,👀,0x1f440,0.228,0.482,0.291,0.063,eyes,Miscellaneous Symbols and Pictographs,0.244483611
+💘,💘,0x1f498,0.048,0.221,0.731,0.683,heart with arrow,Miscellaneous Symbols and Pictographs,3.621551322
+🐓,🐓,0x1f413,0.109,0.755,0.137,0.028,rooster,Miscellaneous Symbols and Pictographs,0.108486069
+☕,☕,0x2615,0.14,0.475,0.384,0.244,hot beverage,Miscellaneous Symbols,0.974460788
+👋,👋,0x1f44b,0.158,0.27,0.571,0.413,waving hand sign,Miscellaneous Symbols and Pictographs,1.756327695
+✋,✋,0x270b,0.328,0.218,0.454,0.126,raised hand,Dingbats,0.491916356
+🎊,🎊,0x1f38a,0.057,0.164,0.779,0.721,confetti ball,Miscellaneous Symbols and Pictographs,4.029845142
+🍕,🍕,0x1f355,0.056,0.47,0.473,0.417,slice of pizza,Miscellaneous Symbols and Pictographs,1.776897932
+❄,❄,0x2744,0.099,0.295,0.605,0.506,snowflake,Dingbats,2.272062041
+😥,😥,0x1f625,0.317,0.244,0.439,0.122,disappointed but relieved face,Emoticons,0.476060089
+😕,😕,0x1f615,0.601,0.195,0.204,-0.397,confused face,Emoticons,-1.675248652
+💥,💥,0x1f4a5,0.072,0.708,0.22,0.148,collision symbol,Miscellaneous Symbols and Pictographs,0.579584288
+💔,💔,0x1f494,0.414,0.293,0.293,-0.121,broken heart,Miscellaneous Symbols and Pictographs,-0.472099734
+😤,😤,0x1f624,0.479,0.252,0.27,-0.209,face with look of triumph,Emoticons,-0.827733483
+😈,😈,0x1f608,0.204,0.326,0.47,0.265,smiling face with horns,Emoticons,1.064394376
+►,►,0x25ba,0.125,0.588,0.287,0.162,black right-pointing pointer,Geometric Shapes,0.635822029
+✈,✈,0x2708,0.043,0.498,0.458,0.415,airplane,Dingbats,1.766597344
+🔝,🔝,0x1f51d,0.088,0.35,0.562,0.474,top with upwards arrow above,Miscellaneous Symbols and Pictographs,2.084886213
+😰,😰,0x1f630,0.436,0.148,0.416,-0.02,face with open mouth and cold sweat,Emoticons,-0.077475164
+⚽,⚽,0x26bd,0.053,0.278,0.669,0.616,soccer ball,Miscellaneous Symbols,3.028586982
+😑,😑,0x1f611,0.513,0.285,0.202,-0.311,expressionless face,Emoticons,-1.267345601
+👑,👑,0x1f451,0.043,0.219,0.738,0.694,crown,Miscellaneous Symbols and Pictographs,3.733255243
+😹,😹,0x1f639,0.299,0.262,0.44,0.141,cat face with tears of joy,Emoticons,0.551601372
+👉,👉,0x1f449,0.071,0.468,0.461,0.39,right pointing backhand index,Miscellaneous Symbols and Pictographs,1.640355273
+🍃,🍃,0x1f343,0.102,0.418,0.48,0.378,leaf fluttering in wind,Miscellaneous Symbols and Pictographs,1.581312224
+🎁,🎁,0x1f381,0.041,0.158,0.801,0.759,wrapped present,Miscellaneous Symbols and Pictographs,4.514877428
+😠,😠,0x1f620,0.564,0.172,0.265,-0.299,angry face,Emoticons,-1.21353759
+🐧,🐧,0x1f427,0.042,0.46,0.498,0.456,penguin,Miscellaneous Symbols and Pictographs,1.984405102
+☆,☆,0x2606,0.032,0.509,0.46,0.428,star,Miscellaneous Symbols,1.834118031
+🍀,🍀,0x1f340,0.025,0.665,0.31,0.285,four leaf clover,Miscellaneous Symbols and Pictographs,1.151558233
+🎈,🎈,0x1f388,0.018,0.246,0.736,0.718,balloon,Miscellaneous Symbols and Pictographs,3.99515782
+🎅,🎅,0x1f385,0.029,0.625,0.347,0.318,father christmas,Miscellaneous Symbols and Pictographs,1.299040996
+😓,😓,0x1f613,0.431,0.217,0.351,-0.08,face with cold sweat,Emoticons,-0.310834936
+😣,😣,0x1f623,0.54,0.131,0.328,-0.212,persevering face,Emoticons,-0.84016981
+😐,😐,0x1f610,0.553,0.282,0.165,-0.388,neutral face,Emoticons,-1.630447845
+✊,✊,0x270a,0.139,0.293,0.568,0.429,raised fist,Dingbats,1.839368536
+😨,😨,0x1f628,0.434,0.272,0.294,-0.14,fearful face,Emoticons,-0.547610812
+😖,😖,0x1f616,0.483,0.188,0.328,-0.155,confounded face,Emoticons,-0.607656267
+💤,💤,0x1f4a4,0.144,0.341,0.515,0.37,sleeping symbol,Miscellaneous Symbols and Pictographs,1.542470246
+💓,💓,0x1f493,0.061,0.214,0.725,0.664,beating heart,Miscellaneous Symbols and Pictographs,3.43927901
+👎,👎,0x1f44e,0.494,0.199,0.307,-0.188,thumbs down sign,Miscellaneous Symbols and Pictographs,-0.741339676
+💦,💦,0x1f4a6,0.141,0.247,0.612,0.471,splashing sweat symbol,Miscellaneous Symbols and Pictographs,2.06791348
+✔,✔,0x2714,0.127,0.476,0.397,0.27,heavy check mark,Dingbats,1.086040705
+😷,😷,0x1f637,0.474,0.221,0.305,-0.169,face with medical mask,Emoticons,-0.66408637
+⚡,⚡,0x26a1,0.044,0.735,0.221,0.177,high voltage sign,Miscellaneous Symbols,0.696515438
+🙋,🙋,0x1f64b,0.13,0.255,0.615,0.485,happy person raising one hand,Emoticons,2.147931993
+🎄,🎄,0x1f384,0.067,0.335,0.598,0.531,christmas tree,Miscellaneous Symbols and Pictographs,2.426979645
+💩,💩,0x1f4a9,0.409,0.297,0.293,-0.116,pile of poo,Miscellaneous Symbols and Pictographs,-0.452319581
+🎵,🎵,0x1f3b5,0.106,0.288,0.606,0.5,musical note,Miscellaneous Symbols and Pictographs,2.236067977
+➡,➡,0x27a1,0.013,0.827,0.16,0.147,black rightwards arrow,Dingbats,0.575581385
+😛,😛,0x1f61b,0.085,0.229,0.686,0.601,face with stuck-out tongue,Emoticons,2.91231259
+😬,😬,0x1f62c,0.267,0.272,0.461,0.194,grimacing face,Emoticons,0.765909886
+👯,👯,0x1f46f,0.117,0.327,0.556,0.439,woman with bunny ears,Miscellaneous Symbols and Pictographs,1.892336308
+💎,💎,0x1f48e,0.057,0.325,0.618,0.561,gem stone,Miscellaneous Symbols and Pictographs,2.624670434
+🌿,🌿,0x1f33f,0.009,0.597,0.393,0.384,herb,Miscellaneous Symbols and Pictographs,1.610714071
+🎂,🎂,0x1f382,0.083,0.221,0.696,0.613,birthday cake,Miscellaneous Symbols and Pictographs,3.004923623
+🌟,🌟,0x1f31f,0.059,0.554,0.386,0.327,glowing star,Miscellaneous Symbols and Pictographs,1.340140675
+🔮,🔮,0x1f52e,0.035,0.663,0.302,0.267,crystal ball,Miscellaneous Symbols and Pictographs,1.073041691
+❗,❗,0x2757,0.159,0.582,0.259,0.1,heavy exclamation mark symbol,Dingbats,0.389249472
+👫,👫,0x1f46b,0.22,0.305,0.475,0.255,man and woman holding hands,Miscellaneous Symbols and Pictographs,1.021376381
+🏆,🏆,0x1f3c6,0.036,0.203,0.761,0.726,trophy,Miscellaneous Symbols and Pictographs,4.088712492
+✖,✖,0x2716,0.046,0.597,0.357,0.311,heavy multiplication x,Dingbats,1.267345601
+☝,☝,0x261d,0.144,0.402,0.454,0.309,up pointing index,Miscellaneous Symbols,1.258332061
+😙,😙,0x1f619,0.021,0.18,0.799,0.778,kissing face with smiling eyes,Emoticons,4.796040711
+⛄,⛄,0x26c4,0.077,0.325,0.598,0.521,snowman without snow,Miscellaneous Symbols,2.364019144
+👅,👅,0x1f445,0.124,0.29,0.585,0.461,tongue,Miscellaneous Symbols and Pictographs,2.011995775
+♪,♪,0x266a,0.083,0.301,0.617,0.534,eighth note,Miscellaneous Symbols,2.446139656
+🍂,🍂,0x1f342,0.036,0.38,0.583,0.547,fallen leaf,Miscellaneous Symbols and Pictographs,2.530688538
+💏,💏,0x1f48f,0.181,0.25,0.569,0.388,kiss,Miscellaneous Symbols and Pictographs,1.630447845
+🔪,🔪,0x1f52a,0.21,0.511,0.28,0.07,hocho,Miscellaneous Symbols and Pictographs,0.271775502
+🌴,🌴,0x1f334,0.077,0.32,0.602,0.525,palm tree,Miscellaneous Symbols and Pictographs,2.389038817
+👈,👈,0x1f448,0.085,0.407,0.508,0.424,left pointing backhand index,Miscellaneous Symbols and Pictographs,1.813198077
+🌹,🌹,0x1f339,0.023,0.354,0.623,0.6,rose,Miscellaneous Symbols and Pictographs,2.90473751
+🙆,🙆,0x1f646,0.092,0.316,0.592,0.5,face with ok gesture,Emoticons,2.236067977
+➜,➜,0x279c,0.052,0.734,0.214,0.162,heavy round-tipped rightwards arrow,Dingbats,0.635822029
+👻,👻,0x1f47b,0.17,0.433,0.398,0.228,ghost,Miscellaneous Symbols and Pictographs,0.906927651
+💰,💰,0x1f4b0,0.158,0.433,0.409,0.251,money bag,Miscellaneous Symbols and Pictographs,1.004268376
+🍻,🍻,0x1f37b,0.107,0.274,0.619,0.512,clinking beer mugs,Miscellaneous Symbols and Pictographs,2.308499495
+🙅,🙅,0x1f645,0.458,0.286,0.256,-0.202,face with no good gesture,Emoticons,-0.798809681
+🌞,🌞,0x1f31e,0.024,0.394,0.582,0.558,sun with face,Miscellaneous Symbols and Pictographs,2.604263758
+🍁,🍁,0x1f341,0.037,0.445,0.518,0.482,maple leaf,Miscellaneous Symbols and Pictographs,2.130608651
+⭐,⭐,0x2b50,0.037,0.346,0.617,0.58,medium star,Miscellaneous Symbols and Arrows,2.757531197
+▪,▪,0x25aa,0.099,0.605,0.296,0.198,black small square,Geometric Shapes,0.782339443
+🎀,🎀,0x1f380,0.044,0.283,0.673,0.629,ribbon,Miscellaneous Symbols and Pictographs,3.133637661
+━,━,0x2501,0.094,0.635,0.27,0.176,box drawings heavy horizontal,Box Drawing,0.692454163
+☷,☷,0x2637,0.019,0.898,0.083,0.064,trigram for earth,Miscellaneous Symbols,0.248380139
+🐷,🐷,0x1f437,0.077,0.477,0.445,0.368,pig face,Miscellaneous Symbols and Pictographs,1.532822478
+🙉,🙉,0x1f649,0.176,0.314,0.51,0.333,hear-no-evil monkey,Emoticons,1.367766213
+🌺,🌺,0x1f33a,0.02,0.412,0.569,0.549,hibiscus,Miscellaneous Symbols and Pictographs,2.543923189
+💅,💅,0x1f485,0.184,0.243,0.572,0.388,nail polish,Miscellaneous Symbols and Pictographs,1.630447845
+🐶,🐶,0x1f436,0.086,0.252,0.662,0.576,dog face,Miscellaneous Symbols and Pictographs,2.72902226
+🌚,🌚,0x1f31a,0.159,0.219,0.623,0.464,new moon with face,Miscellaneous Symbols and Pictographs,2.02866659
+👽,👽,0x1f47d,0.094,0.497,0.409,0.315,extraterrestrial alien,Miscellaneous Symbols and Pictographs,1.285428786
+🎤,🎤,0x1f3a4,0.122,0.279,0.599,0.476,microphone,Miscellaneous Symbols and Pictographs,2.096253303
+👭,👭,0x1f46d,0.143,0.252,0.605,0.463,two women holding hands,Miscellaneous Symbols and Pictographs,2.023099835
+🎧,🎧,0x1f3a7,0.131,0.324,0.545,0.414,headphone,Miscellaneous Symbols and Pictographs,1.761458671
+👆,👆,0x1f446,0.121,0.433,0.447,0.326,up pointing backhand index,Miscellaneous Symbols and Pictographs,1.335554206
+🍸,🍸,0x1f378,0.092,0.277,0.631,0.539,cocktail glass,Miscellaneous Symbols and Pictographs,2.478361318
+🍷,🍷,0x1f377,0.057,0.493,0.45,0.393,wine glass,Miscellaneous Symbols and Pictographs,1.655267836
+®,®,0xae,0.071,0.579,0.35,0.279,registered sign,Latin-1 Supplement,1.125244576
+🍉,🍉,0x1f349,0.079,0.245,0.676,0.597,watermelon,Miscellaneous Symbols and Pictographs,2.882139381
+😇,😇,0x1f607,0.072,0.268,0.659,0.587,smiling face with halo,Emoticons,2.808149607
+☑,☑,0x2611,0.022,0.855,0.123,0.101,ballot box with check,Miscellaneous Symbols,0.393181883
+🏃,🏃,0x1f3c3,0.094,0.406,0.5,0.406,runner,Miscellaneous Symbols and Pictographs,1.720623223
+😿,😿,0x1f63f,0.577,0.219,0.204,-0.372,crying cat face,Emoticons,-1.552142861
+│,│,0x2502,0.007,0.642,0.35,0.343,box drawings light vertical,Box Drawing,1.414226785
+💣,💣,0x1f4a3,0.306,0.381,0.313,0.007,bomb,Miscellaneous Symbols and Pictographs,0.027111548
+🍺,🍺,0x1f37a,0.067,0.373,0.56,0.493,beer mug,Miscellaneous Symbols and Pictographs,2.194616627
+▶,▶,0x25b6,0.06,0.672,0.269,0.209,black right-pointing triangle,Geometric Shapes,0.827733483
+😲,😲,0x1f632,0.386,0.295,0.318,-0.068,astonished face,Emoticons,-0.263973882
+🎸,🎸,0x1f3b8,0.016,0.453,0.531,0.516,guitar,Miscellaneous Symbols and Pictographs,2.333044646
+🍹,🍹,0x1f379,0.048,0.246,0.706,0.659,tropical drink,Miscellaneous Symbols and Pictographs,3.393365668
+💫,💫,0x1f4ab,0.04,0.419,0.54,0.5,dizzy symbol,Miscellaneous Symbols and Pictographs,2.236067977
+📚,📚,0x1f4da,0.189,0.287,0.525,0.336,books,Miscellaneous Symbols and Pictographs,1.381648717
+😶,😶,0x1f636,0.425,0.292,0.283,-0.142,face without mouth,Emoticons,-0.555593656
+🌷,🌷,0x1f337,0.008,0.445,0.546,0.538,tulip,Miscellaneous Symbols and Pictographs,2.471887775
+💝,💝,0x1f49d,0.076,0.203,0.72,0.644,heart with ribbon,Miscellaneous Symbols and Pictographs,3.260285191
+💨,💨,0x1f4a8,0.11,0.398,0.492,0.381,dash symbol,Miscellaneous Symbols and Pictographs,1.595983663
+🏈,🏈,0x1f3c8,0.068,0.333,0.598,0.53,american football,Miscellaneous Symbols and Pictographs,2.420621324
+💍,💍,0x1f48d,0.148,0.226,0.626,0.478,ring,Miscellaneous Symbols and Pictographs,2.107662447
+☔,☔,0x2614,0.193,0.325,0.482,0.289,umbrella with rain drops,Miscellaneous Symbols,1.169182249
+👸,👸,0x1f478,0.061,0.272,0.667,0.605,princess,Miscellaneous Symbols and Pictographs,2.942828396
+🇪,🇪,0x1f1ea,0.027,0.33,0.643,0.616,regional indicator symbol letter e,Enclosed Alphanumeric Supplement,3.028586982
+░,░,0x2591,0.234,0.577,0.189,-0.045,light shade,Block Elements,-0.174460982
+🍩,🍩,0x1f369,0.145,0.327,0.527,0.382,doughnut,Miscellaneous Symbols and Pictographs,1.600887204
+👾,👾,0x1f47e,0.019,0.602,0.38,0.361,alien monster,Miscellaneous Symbols and Pictographs,1.499247522
+☁,☁,0x2601,0.14,0.411,0.449,0.308,cloud,Miscellaneous Symbols,1.253832223
+🌻,🌻,0x1f33b,0.019,0.393,0.589,0.57,sunflower,Miscellaneous Symbols and Pictographs,2.686806753
+😵,😵,0x1f635,0.321,0.274,0.406,0.085,dizzy face,Emoticons,0.330399316
+📒,📒,0x1f4d2,0.01,0.943,0.048,0.038,ledger,Miscellaneous Symbols and Pictographs,0.147279742
+↿,↿,0x21bf,0.01,0.333,0.657,0.648,upwards harpoon with barb leftwards,Arrows,3.29511594
+🐯,🐯,0x1f42f,0.049,0.427,0.524,0.476,tiger face,Miscellaneous Symbols and Pictographs,2.096253303
+👼,👼,0x1f47c,0.176,0.314,0.51,0.333,baby angel,Miscellaneous Symbols and Pictographs,1.367766213
+🍔,🍔,0x1f354,0.168,0.386,0.446,0.277,hamburger,Miscellaneous Symbols and Pictographs,1.116505332
+😸,😸,0x1f638,0.12,0.35,0.53,0.41,grinning cat face with smiling eyes,Emoticons,1.740980569
+👶,👶,0x1f476,0.141,0.283,0.576,0.434,baby,Miscellaneous Symbols and Pictographs,1.865746209
+↾,↾,0x21be,0.01,0.333,0.657,0.646,upwards harpoon with barb rightwards,Arrows,3.277642642
+💐,💐,0x1f490,0.041,0.184,0.776,0.735,bouquet,Miscellaneous Symbols and Pictographs,4.198172622
+🌊,🌊,0x1f30a,0.092,0.316,0.592,0.5,water wave,Miscellaneous Symbols and Pictographs,2.236067977
+🍦,🍦,0x1f366,0.143,0.255,0.602,0.459,soft ice cream,Miscellaneous Symbols and Pictographs,2.000930649
+🍓,🍓,0x1f353,0.041,0.247,0.711,0.67,strawberry,Miscellaneous Symbols and Pictographs,3.495467164
+👇,👇,0x1f447,0.144,0.464,0.392,0.247,down pointing backhand index,Miscellaneous Symbols and Pictographs,0.987215278
+💆,💆,0x1f486,0.263,0.253,0.484,0.221,face massage,Miscellaneous Symbols and Pictographs,0.877629762
+🍴,🍴,0x1f374,0.053,0.358,0.589,0.537,fork and knife,Miscellaneous Symbols and Pictographs,2.46542892
+😧,😧,0x1f627,0.389,0.284,0.326,-0.063,anguished face,Emoticons,-0.244483611
+🇸,🇸,0x1f1f8,0.096,0.298,0.606,0.511,regional indicator symbol letter s,Enclosed Alphanumeric Supplement,2.302395183
+😮,😮,0x1f62e,0.183,0.366,0.452,0.269,face with open mouth,Emoticons,1.081703936
+▓,▓,0x2593,0.032,0.925,0.043,0.011,dark shade,Block Elements,0.042605395
+🚫,🚫,0x1f6ab,0.538,0.363,0.099,-0.44,no entry sign,Transport and Map Symbols,-1.897680288
+😽,😽,0x1f63d,0.132,0.165,0.703,0.571,kissing cat face with closed eyes,Emoticons,2.693797833
+🌈,🌈,0x1f308,0.066,0.352,0.582,0.516,rainbow,Miscellaneous Symbols and Pictographs,2.333044646
+🙀,🙀,0x1f640,0.165,0.341,0.495,0.33,weary cat face,Emoticons,1.353930425
+⚠,⚠,0x26a0,0.187,0.692,0.121,-0.066,warning sign,Miscellaneous Symbols,-0.25617546
+🎮,🎮,0x1f3ae,0.101,0.371,0.528,0.427,video game,Miscellaneous Symbols and Pictographs,1.828875774
+╯,╯,0x256f,0.23,0.552,0.218,-0.011,box drawings light arc up and left,Box Drawing,-0.042605395
+🍆,🍆,0x1f346,0.08,0.437,0.483,0.402,aubergine,Miscellaneous Symbols and Pictographs,1.70038429
+🍰,🍰,0x1f370,0.161,0.23,0.609,0.448,shortcake,Miscellaneous Symbols and Pictographs,1.940751023
+✓,✓,0x2713,0.115,0.483,0.402,0.287,check mark,Dingbats,1.160361973
+👐,👐,0x1f450,0.395,0.233,0.372,-0.023,open hands sign,Miscellaneous Symbols and Pictographs,-0.089102188
+🙇,🙇,0x1f647,0.291,0.279,0.43,0.14,person bowing deeply,Emoticons,0.547610812
+🍟,🍟,0x1f35f,0.174,0.349,0.477,0.302,french fries,Miscellaneous Symbols and Pictographs,1.226928823
+🍌,🍌,0x1f34c,0.129,0.306,0.565,0.435,banana,Miscellaneous Symbols and Pictographs,1.871047065
+💑,💑,0x1f491,0.071,0.2,0.729,0.659,couple with heart,Miscellaneous Symbols and Pictographs,3.393365668
+👬,👬,0x1f46c,0.353,0.353,0.294,-0.059,two men holding hands,Miscellaneous Symbols and Pictographs,-0.228904774
+🐣,🐣,0x1f423,0.155,0.214,0.631,0.476,hatching chick,Miscellaneous Symbols and Pictographs,2.096253303
+🎃,🎃,0x1f383,0.083,0.238,0.679,0.595,jack-o-lantern,Miscellaneous Symbols and Pictographs,2.867178557
+▬,▬,0x25ac,0.012,0.512,0.476,0.464,black rectangle,Geometric Shapes,2.02866659
+￼,￼,0xfffc,0.536,0.405,0.06,-0.476,object replacement character,Specials,-2.096253303
+😟,😟,0x1f61f,0.349,0.229,0.422,0.072,worried face,Emoticons,0.279580415
+🐾,🐾,0x1f43e,0.111,0.173,0.716,0.605,paw prints,Miscellaneous Symbols and Pictographs,2.942828396
+🎓,🎓,0x1f393,0.1,0.238,0.663,0.563,graduation cap,Miscellaneous Symbols and Pictographs,2.638358559
+🏊,🏊,0x1f3ca,0.038,0.35,0.613,0.575,swimmer,Miscellaneous Symbols and Pictographs,2.721941143
+🍫,🍫,0x1f36b,0.291,0.266,0.443,0.152,chocolate bar,Miscellaneous Symbols and Pictographs,0.595614212
+📷,📷,0x1f4f7,0.101,0.367,0.532,0.43,camera,Miscellaneous Symbols and Pictographs,1.844627329
+👄,👄,0x1f444,0.077,0.372,0.551,0.474,mouth,Miscellaneous Symbols and Pictographs,2.084886213
+🌼,🌼,0x1f33c,0.026,0.169,0.805,0.779,blossom,Miscellaneous Symbols and Pictographs,4.811704811
+🚶,🚶,0x1f6b6,0.377,0.39,0.234,-0.143,pedestrian,Transport and Map Symbols,-0.559587675
+🐱,🐱,0x1f431,0.145,0.197,0.658,0.513,cat face,Miscellaneous Symbols and Pictographs,2.314616528
+║,║,0x2551,0.013,0.829,0.158,0.145,box drawings double vertical,Box Drawing,0.567580977
+🐸,🐸,0x1f438,0.333,0.413,0.253,-0.08,frog face,Miscellaneous Symbols and Pictographs,-0.310834936
+🇺,🇺,0x1f1fa,0.122,0.216,0.662,0.541,regional indicator symbol letter u,Enclosed Alphanumeric Supplement,2.491352801
+👿,👿,0x1f47f,0.658,0.219,0.123,-0.534,imp,Miscellaneous Symbols and Pictographs,-2.446139656
+🚬,🚬,0x1f6ac,0.123,0.233,0.644,0.521,smoking symbol,Transport and Map Symbols,2.364019144
+✿,✿,0x273f,0.041,0.534,0.425,0.384,black florette,Dingbats,1.610714071
+📖,📖,0x1f4d6,0.268,0.296,0.437,0.169,open book,Miscellaneous Symbols and Pictographs,0.66408637
+🐒,🐒,0x1f412,0.028,0.423,0.549,0.521,monkey,Miscellaneous Symbols and Pictographs,2.364019144
+🌍,🌍,0x1f30d,0.085,0.239,0.676,0.592,earth globe europe-africa,Miscellaneous Symbols and Pictographs,2.8448916
+┊,┊,0x250a,0.014,0.014,0.972,0.958,box drawings light quadruple dash vertical,Box Drawing,12.93838737
+🐥,🐥,0x1f425,0.071,0.271,0.657,0.586,front-facing baby chick,Miscellaneous Symbols and Pictographs,2.80086053
+🌀,🌀,0x1f300,0.159,0.58,0.261,0.101,cyclone,Miscellaneous Symbols and Pictographs,0.393181883
+🐼,🐼,0x1f43c,0.072,0.594,0.333,0.261,panda face,Miscellaneous Symbols and Pictographs,1.047143917
+🎥,🎥,0x1f3a5,0.13,0.449,0.42,0.29,movie camera,Miscellaneous Symbols and Pictographs,1.173598641
+💄,💄,0x1f484,0.101,0.362,0.536,0.435,lipstick,Miscellaneous Symbols and Pictographs,1.871047065
+💸,💸,0x1f4b8,0.246,0.348,0.406,0.159,money with wings,Miscellaneous Symbols and Pictographs,0.623739199
+⛔,⛔,0x26d4,0.088,0.338,0.574,0.485,no entry,Miscellaneous Symbols,2.147931993
+●,●,0x25cf,0.132,0.559,0.309,0.176,black circle,Geometric Shapes,0.692454163
+🏀,🏀,0x1f3c0,0.209,0.328,0.463,0.254,basketball and hoop,Miscellaneous Symbols and Pictographs,1.017094168
+💉,💉,0x1f489,0.179,0.284,0.537,0.358,syringe,Miscellaneous Symbols and Pictographs,1.484948039
+💟,💟,0x1f49f,0.061,0.197,0.742,0.682,heart decoration,Miscellaneous Symbols and Pictographs,3.611631635
+🚗,🚗,0x1f697,0.138,0.492,0.369,0.231,automobile,Transport and Map Symbols,0.919528963
+😯,😯,0x1f62f,0.262,0.354,0.385,0.123,hushed face,Emoticons,0.480021916
+📝,📝,0x1f4dd,0.138,0.492,0.369,0.231,memo,Miscellaneous Symbols and Pictographs,0.919528963
+═,═,0x2550,0.015,0.954,0.031,0.015,box drawings double horizontal,Box Drawing,0.058101287
+♦,♦,0x2666,0.109,0.328,0.563,0.453,black diamond suit,Miscellaneous Symbols,1.967964959
+💭,💭,0x1f4ad,0.175,0.444,0.381,0.206,thought balloon,Miscellaneous Symbols and Pictographs,0.815321594
+🌙,🌙,0x1f319,0.066,0.279,0.656,0.59,crescent moon,Miscellaneous Symbols and Pictographs,2.83013499
+🐟,🐟,0x1f41f,0.049,0.213,0.738,0.689,fish,Miscellaneous Symbols and Pictographs,3.681881715
+👣,👣,0x1f463,0.115,0.426,0.459,0.344,footprints,Miscellaneous Symbols and Pictographs,1.418902383
+☞,☞,0x261e,0.016,0.852,0.131,0.115,right pointing index,Miscellaneous Symbols,0.448367785
+✂,✂,0x2702,0.574,0.311,0.115,-0.459,black scissors,Dingbats,-2.000930649
+🗿,🗿,0x1f5ff,0.098,0.361,0.541,0.443,moyai,Miscellaneous Symbols and Pictographs,1.913764934
+🍝,🍝,0x1f35d,0.283,0.317,0.4,0.117,spaghetti,Miscellaneous Symbols and Pictographs,0.456272772
+👪,👪,0x1f46a,0.417,0.183,0.4,-0.017,family,Miscellaneous Symbols and Pictographs,-0.065850233
+🍭,🍭,0x1f36d,0.167,0.367,0.467,0.3,lollipop,Miscellaneous Symbols and Pictographs,1.217996914
+🌃,🌃,0x1f303,0.068,0.475,0.458,0.39,night with stars,Miscellaneous Symbols and Pictographs,1.640355273
+❌,❌,0x274c,0.254,0.22,0.525,0.271,cross mark,Dingbats,1.090381265
+🐰,🐰,0x1f430,0.086,0.241,0.672,0.586,rabbit face,Miscellaneous Symbols and Pictographs,2.80086053
+💊,💊,0x1f48a,0.155,0.259,0.586,0.431,pill,Miscellaneous Symbols and Pictographs,1.849894451
+🚨,🚨,0x1f6a8,0.121,0.121,0.759,0.638,police cars revolving light,Transport and Map Symbols,3.208891806
+😦,😦,0x1f626,0.544,0.281,0.175,-0.368,frowning face with open mouth,Emoticons,-1.532822478
+🍪,🍪,0x1f36a,0.193,0.298,0.509,0.316,cookie,Miscellaneous Symbols and Pictographs,1.289961405
+🍣,🍣,0x1f363,0.446,0.339,0.214,-0.232,sushi,Miscellaneous Symbols and Pictographs,-0.923735534
+╭,╭,0x256d,0.071,0.696,0.232,0.161,box drawings light arc down and right,Box Drawing,0.631792426
+✧,✧,0x2727,0.036,0.607,0.357,0.321,four pointed star,Dingbats,1.312696617
+🎆,🎆,0x1f386,0.055,0.182,0.764,0.709,fireworks,Miscellaneous Symbols and Pictographs,3.893806259
+╮,╮,0x256e,0.109,0.655,0.236,0.127,box drawings light arc down and left,Box Drawing,0.4958842
+🎎,🎎,0x1f38e,0.019,0.056,0.926,0.907,japanese dolls,Miscellaneous Symbols and Pictographs,8.341345225
+🇩,🇩,0x1f1e9,0.037,0.315,0.648,0.611,regional indicator symbol letter d,Enclosed Alphanumeric Supplement,2.989263979
+✅,✅,0x2705,0.074,0.444,0.481,0.407,heavy check mark,Dingbats,1.725701368
+👹,👹,0x1f479,0.269,0.404,0.327,0.058,japanese ogre,Miscellaneous Symbols and Pictographs,0.225011823
+📱,📱,0x1f4f1,0.096,0.5,0.404,0.308,mobile phone,Miscellaneous Symbols and Pictographs,1.253832223
+🙍,🙍,0x1f64d,0.577,0.173,0.25,-0.327,person frowning,Emoticons,-1.340140675
+🍑,🍑,0x1f351,0.25,0.25,0.5,0.25,peach,Miscellaneous Symbols and Pictographs,1
+🎼,🎼,0x1f3bc,0.058,0.558,0.385,0.327,musical score,Miscellaneous Symbols and Pictographs,1.340140675
+🔊,🔊,0x1f50a,0.096,0.404,0.5,0.404,speaker with three sound waves,Miscellaneous Symbols and Pictographs,1.710489099
+🌌,🌌,0x1f30c,0.12,0.24,0.64,0.52,milky way,Miscellaneous Symbols and Pictographs,2.357797813
+🍎,🍎,0x1f34e,0.14,0.4,0.46,0.32,red apple,Miscellaneous Symbols and Pictographs,1.30813988
+🐻,🐻,0x1f43b,0.14,0.28,0.58,0.44,bear face,Miscellaneous Symbols and Pictographs,1.897680288
+─,─,0x2500,0.02,0.82,0.16,0.14,box drawings light horizontal,Box Drawing,0.547610812
+╰,╰,0x2570,0.16,0.74,0.1,-0.06,box drawings light arc up and right,Box Drawing,-0.232798416
+💇,💇,0x1f487,0.163,0.347,0.49,0.327,haircut,Miscellaneous Symbols and Pictographs,1.340140675
+♬,♬,0x266c,0.102,0.551,0.347,0.245,beamed sixteenth notes,Miscellaneous Symbols,0.978708956
+♚,♚,0x265a,0.02,0.918,0.061,0.041,black chess king,Miscellaneous Symbols,0.158925951
+🔴,🔴,0x1f534,0.042,0.521,0.438,0.396,large red circle,Miscellaneous Symbols and Pictographs,1.67024291
+🍱,🍱,0x1f371,0.542,0.229,0.229,-0.313,bento box,Miscellaneous Symbols and Pictographs,-1.276377781
+🍊,🍊,0x1f34a,0.146,0.292,0.563,0.417,tangerine,Miscellaneous Symbols and Pictographs,1.776897932
+🍒,🍒,0x1f352,0.146,0.396,0.458,0.313,cherries,Miscellaneous Symbols and Pictographs,1.276377781
+🐭,🐭,0x1f42d,0.021,0.271,0.708,0.688,mouse face,Miscellaneous Symbols and Pictographs,3.671728408
+👟,👟,0x1f45f,0.125,0.333,0.542,0.417,athletic shoe,Miscellaneous Symbols and Pictographs,1.776897932
+🌎,🌎,0x1f30e,0.128,0.426,0.447,0.319,earth globe americas,Miscellaneous Symbols and Pictographs,1.303588015
+🍍,🍍,0x1f34d,0.17,0.191,0.638,0.468,pineapple,Miscellaneous Symbols and Pictographs,2.051032956
+🐮,🐮,0x1f42e,0.065,0.283,0.652,0.587,cow face,Miscellaneous Symbols and Pictographs,2.808149607
+📲,📲,0x1f4f2,0.174,0.413,0.413,0.239,mobile phone with rightwards arrow at left,Miscellaneous Symbols and Pictographs,0.953269173
+☼,☼,0x263c,0.065,0.674,0.261,0.196,sun with rays,Miscellaneous Symbols,0.774119641
+🌅,🌅,0x1f305,0.156,0.333,0.511,0.356,sunrise,Miscellaneous Symbols and Pictographs,1.475444402
+🇷,🇷,0x1f1f7,0.044,0.244,0.711,0.667,regional indicator symbol letter r,Enclosed Alphanumeric Supplement,3.467221179
+👠,👠,0x1f460,0.156,0.333,0.511,0.356,high-heeled shoe,Miscellaneous Symbols and Pictographs,1.475444402
+🌽,🌽,0x1f33d,0.133,0.289,0.578,0.444,ear of maize,Miscellaneous Symbols and Pictographs,1.919144197
+💧,💧,0x1f4a7,0.477,0.205,0.318,-0.159,droplet,Miscellaneous Symbols and Pictographs,-0.623739199
+❓,❓,0x2753,0.182,0.568,0.25,0.068,black question mark ornament,Dingbats,0.263973882
+🍬,🍬,0x1f36c,0.205,0.227,0.568,0.364,candy,Miscellaneous Symbols and Pictographs,1.513600527
+😺,😺,0x1f63a,0.209,0.186,0.605,0.395,smiling cat face with open mouth,Emoticons,1.665244217
+🐴,🐴,0x1f434,0.209,0.512,0.279,0.07,horse face,Miscellaneous Symbols and Pictographs,0.271775502
+🚀,🚀,0x1f680,0.07,0.372,0.558,0.488,rocket,Transport and Map Symbols,2.165354493
+¦,¦,0xa6,0.186,0.047,0.767,0.581,broken bar,Latin-1 Supplement,2.764705112
+💢,💢,0x1f4a2,0.163,0.442,0.395,0.233,anger symbol,Miscellaneous Symbols and Pictographs,0.927945201
+🎬,🎬,0x1f3ac,0.07,0.581,0.349,0.279,clapper board,Miscellaneous Symbols and Pictographs,1.125244576
+🍧,🍧,0x1f367,0.233,0.233,0.535,0.302,shaved ice,Miscellaneous Symbols and Pictographs,1.226928823
+🍜,🍜,0x1f35c,0.233,0.14,0.628,0.395,steaming bowl,Miscellaneous Symbols and Pictographs,1.665244217
+🐏,🐏,0x1f40f,0.07,0.302,0.628,0.558,ram,Miscellaneous Symbols and Pictographs,2.604263758
+🐘,🐘,0x1f418,0.233,0.512,0.256,0.023,elephant,Miscellaneous Symbols and Pictographs,0.089102188
+👧,👧,0x1f467,0.256,0.349,0.395,0.14,girl,Miscellaneous Symbols and Pictographs,0.547610812
+⠀,⠀,0x2800,0.163,0.628,0.209,0.047,braille pattern blank,Braille Patterns,0.182231603
+🏄,🏄,0x1f3c4,0.071,0.333,0.595,0.524,surfer,Miscellaneous Symbols and Pictographs,2.382763598
+➤,➤,0x27a4,0.024,0.643,0.333,0.31,black rightwards arrowhead,Dingbats,1.262836512
+⬆,⬆,0x2b06,0.048,0.619,0.333,0.286,upwards black arrow,Miscellaneous Symbols and Arrows,1.155958047
+🍋,🍋,0x1f34b,0.171,0.415,0.415,0.244,lemon,Miscellaneous Symbols and Pictographs,0.974460788
+🆗,🆗,0x1f197,0.171,0.122,0.707,0.537,squared ok,Enclosed Alphanumeric Supplement,2.46542892
+⚪,⚪,0x26aa,0.025,0.5,0.475,0.45,medium white circle,Miscellaneous Symbols,1.951608934
+📺,📺,0x1f4fa,0.1,0.425,0.475,0.375,television,Miscellaneous Symbols and Pictographs,1.566698904
+🍅,🍅,0x1f345,0.25,0.15,0.6,0.35,tomato,Miscellaneous Symbols and Pictographs,1.447071904
+⛅,⛅,0x26c5,0.125,0.3,0.575,0.45,sun behind cloud,Miscellaneous Symbols,1.951608934
+🐢,🐢,0x1f422,0.175,0.45,0.375,0.2,turtle,Miscellaneous Symbols and Pictographs,0.790569415
+👙,👙,0x1f459,0.1,0.3,0.6,0.5,bikini,Miscellaneous Symbols and Pictographs,2.236067977
+🏡,🏡,0x1f3e1,0.154,0.256,0.59,0.436,house with garden,Miscellaneous Symbols and Pictographs,1.87635646
+🌾,🌾,0x1f33e,0.154,0.154,0.692,0.538,ear of rice,Miscellaneous Symbols and Pictographs,2.471887775
+◉,◉,0x25c9,0.026,0.692,0.282,0.256,fisheye,Geometric Shapes,1.025662099
+✏,✏,0x270f,0.105,0.447,0.447,0.342,pencil,Dingbats,1.409556637
+🐬,🐬,0x1f42c,0.079,0.421,0.5,0.421,dolphin,Miscellaneous Symbols and Pictographs,1.79759315
+🍤,🍤,0x1f364,0.184,0.579,0.237,0.053,fried shrimp,Miscellaneous Symbols and Pictographs,0.205557025
+🇹,🇹,0x1f1f9,0.026,0.368,0.605,0.579,regional indicator symbol letter t,Enclosed Alphanumeric Supplement,2.750376068
+♣,♣,0x2663,0.132,0.395,0.474,0.342,black club suit,Miscellaneous Symbols,1.409556637
+🐝,🐝,0x1f41d,0.158,0.474,0.368,0.211,honeybee,Miscellaneous Symbols and Pictographs,0.836021626
+🌝,🌝,0x1f31d,0.162,0.486,0.351,0.189,full moon with face,Miscellaneous Symbols and Pictographs,0.745428648
+🇮,🇮,0x1f1ee,0.027,0.351,0.622,0.595,regional indicator symbol letter i,Enclosed Alphanumeric Supplement,2.867178557
+🔋,🔋,0x1f50b,0.622,0.243,0.135,-0.486,battery,Miscellaneous Symbols and Pictographs,-2.153728398
+🐍,🐍,0x1f40d,0.108,0.432,0.459,0.351,snake,Miscellaneous Symbols and Pictographs,1.451786398
+♔,♔,0x2654,0.027,0.405,0.568,0.541,chess king,Miscellaneous Symbols,2.491352801
+🍳,🍳,0x1f373,0.389,0.194,0.417,0.028,cooking,Miscellaneous Symbols and Pictographs,0.108486069
+🔵,🔵,0x1f535,0.139,0.417,0.444,0.306,large blue circle,Miscellaneous Symbols and Pictographs,1.244846299
+😾,😾,0x1f63e,0.583,0.167,0.25,-0.333,pouting cat face,Emoticons,-1.367766213
+🌕,🌕,0x1f315,0.111,0.222,0.667,0.556,full moon symbol,Miscellaneous Symbols and Pictographs,2.590741845
+🐨,🐨,0x1f428,0.139,0.278,0.583,0.444,koala,Miscellaneous Symbols and Pictographs,1.919144197
+🔐,🔐,0x1f510,0.194,0.278,0.528,0.333,closed lock with key,Miscellaneous Symbols and Pictographs,1.367766213
+💿,💿,0x1f4bf,0.028,0.333,0.639,0.611,optical disc,Miscellaneous Symbols and Pictographs,2.989263979
+❁,❁,0x2741,0.028,0.889,0.083,0.056,eight petalled outlined black florette,Dingbats,0.217227948
+🌳,🌳,0x1f333,0.086,0.343,0.571,0.486,deciduous tree,Miscellaneous Symbols and Pictographs,2.153728398
+👰,👰,0x1f470,0.114,0.286,0.6,0.486,bride with veil,Miscellaneous Symbols and Pictographs,2.153728398
+❀,❀,0x2740,0.029,0.543,0.429,0.4,florette,Dingbats,1.690308509
+⚓,⚓,0x2693,0.086,0.257,0.657,0.571,anchor,Miscellaneous Symbols,2.693797833
+🚴,🚴,0x1f6b4,0.029,0.286,0.686,0.657,bicyclist,Transport and Map Symbols,3.375224656
+▀,▀,0x2580,0.314,0.514,0.171,-0.143,upper half block,Block Elements,-0.559587675
+👗,👗,0x1f457,0.176,0.412,0.412,0.235,dress,Miscellaneous Symbols and Pictographs,0.93637389
+➕,➕,0x2795,0.147,0.176,0.676,0.529,heavy plus sign,Dingbats,2.414277046
+💬,💬,0x1f4ac,0.152,0.333,0.515,0.364,speech balloon,Miscellaneous Symbols and Pictographs,1.513600527
+▒,▒,0x2592,0.091,0.848,0.061,-0.03,medium shade,Block Elements,-0.116241821
+🔜,🔜,0x1f51c,0.182,0.364,0.455,0.273,soon with rightwards arrow above,Miscellaneous Symbols and Pictographs,1.099073836
+🍨,🍨,0x1f368,0.273,0.242,0.485,0.212,ice cream,Miscellaneous Symbols and Pictographs,0.84016981
+💲,💲,0x1f4b2,0.03,0.697,0.273,0.242,heavy dollar sign,Miscellaneous Symbols and Pictographs,0.965974351
+⛽,⛽,0x26fd,0.061,0.727,0.212,0.152,fuel pump,Miscellaneous Symbols,0.595614212
+🍙,🍙,0x1f359,0.188,0.344,0.469,0.281,rice ball,Miscellaneous Symbols and Pictographs,1.133999699
+🍗,🍗,0x1f357,0.313,0.313,0.375,0.063,poultry leg,Miscellaneous Symbols and Pictographs,0.244483611
+🍲,🍲,0x1f372,0.25,0.375,0.375,0.125,pot of food,Miscellaneous Symbols and Pictographs,0.487950036
+🍥,🍥,0x1f365,0.719,0.156,0.125,-0.594,fish cake with swirl design,Miscellaneous Symbols and Pictographs,-2.85972913
+▸,▸,0x25b8,0.031,0.719,0.25,0.219,black right-pointing small triangle,Geometric Shapes,0.869285378
+♛,♛,0x265b,0.156,0.5,0.344,0.188,black chess queen,Miscellaneous Symbols,0.741339676
+😼,😼,0x1f63c,0.194,0.258,0.548,0.355,cat face with wry smile,Emoticons,1.470701305
+🐙,🐙,0x1f419,0.097,0.419,0.484,0.387,octopus,Miscellaneous Symbols and Pictographs,1.625504315
+👨,👨,0x1f468,0.097,0.29,0.613,0.516,man,Miscellaneous Symbols and Pictographs,2.333044646
+🍚,🍚,0x1f35a,0.226,0.097,0.677,0.452,cooked rice,Miscellaneous Symbols and Pictographs,1.962503667
+🍖,🍖,0x1f356,0.258,0.355,0.387,0.129,meat on bone,Miscellaneous Symbols and Pictographs,0.50382451
+♨,♨,0x2668,0.032,0.065,0.903,0.871,hot springs,Miscellaneous Symbols,6.866446422
+🎹,🎹,0x1f3b9,0.032,0.581,0.387,0.355,musical keyboard,Miscellaneous Symbols and Pictographs,1.470701305
+♕,♕,0x2655,0.032,0.548,0.419,0.387,chess queen,Miscellaneous Symbols,1.625504315
+▃,▃,0x2583,0.032,0.032,0.935,0.903,lower three eighths block,Block Elements,8.140069606
+🚘,🚘,0x1f698,0.3,0.333,0.367,0.067,oncoming automobile,Transport and Map Symbols,0.260074277
+🍏,🍏,0x1f34f,0.267,0.4,0.333,0.067,green apple,Miscellaneous Symbols and Pictographs,0.260074277
+👩,👩,0x1f469,0.333,0.267,0.4,0.067,woman,Miscellaneous Symbols and Pictographs,0.260074277
+👦,👦,0x1f466,0.2,0.467,0.333,0.133,boy,Miscellaneous Symbols and Pictographs,0.519723993
+🇬,🇬,0x1f1ec,0.1,0.533,0.367,0.267,regional indicator symbol letter g,Enclosed Alphanumeric Supplement,1.073041691
+🇧,🇧,0x1f1e7,0.1,0.533,0.367,0.267,regional indicator symbol letter b,Enclosed Alphanumeric Supplement,1.073041691
+☠,☠,0x2620,0.267,0.5,0.233,-0.033,skull and crossbones,Miscellaneous Symbols,-0.127878099
+🐠,🐠,0x1f420,0.172,0.241,0.586,0.414,tropical fish,Miscellaneous Symbols and Pictographs,1.761458671
+🚹,🚹,0x1f6b9,0.069,0.172,0.759,0.69,mens symbol,Transport and Map Symbols,3.692075055
+💵,💵,0x1f4b5,0.138,0.345,0.517,0.379,banknote with dollar sign,Miscellaneous Symbols and Pictographs,1.586196204
+✰,✰,0x2730,0.034,0.138,0.828,0.793,shadowed white star,Dingbats,5.041311108
+╠,╠,0x2560,0.034,0.724,0.241,0.207,box drawings double vertical and right,Box Drawing,0.819456202
+👛,👛,0x1f45b,0.179,0.286,0.536,0.357,purse,Miscellaneous Symbols and Pictographs,1.480193304
+🚙,🚙,0x1f699,0.214,0.536,0.25,0.036,recreational vehicle,Transport and Map Symbols,0.139517837
+🌱,🌱,0x1f331,0.036,0.357,0.607,0.571,seedling,Miscellaneous Symbols and Pictographs,2.693797833
+💻,💻,0x1f4bb,0.071,0.607,0.321,0.25,personal computer,Miscellaneous Symbols and Pictographs,1
+🌏,🌏,0x1f30f,0.143,0.393,0.464,0.321,earth globe asia-australia,Miscellaneous Symbols and Pictographs,1.312696617
+▄,▄,0x2584,0.321,0.429,0.25,-0.071,lower half block,Block Elements,-0.275677541
+👓,👓,0x1f453,0.037,0.63,0.333,0.296,eyeglasses,Miscellaneous Symbols and Pictographs,1.200185872
+◄,◄,0x25c4,0.037,0.704,0.259,0.222,black left-pointing pointer,Geometric Shapes,0.881806311
+⚾,⚾,0x26be,0.37,0.296,0.333,-0.037,baseball,Miscellaneous Symbols,-0.143398574
+🌲,🌲,0x1f332,0.115,0.385,0.5,0.385,evergreen tree,Miscellaneous Symbols and Pictographs,1.615637461
+👴,👴,0x1f474,0.231,0.308,0.462,0.231,older man,Miscellaneous Symbols and Pictographs,0.919528963
+🏠,🏠,0x1f3e0,0.077,0.346,0.577,0.5,house building,Miscellaneous Symbols and Pictographs,2.236067977
+🍇,🍇,0x1f347,0.231,0.269,0.5,0.269,grapes,Miscellaneous Symbols and Pictographs,1.081703936
+🍘,🍘,0x1f358,0.231,0.154,0.615,0.385,rice cracker,Miscellaneous Symbols and Pictographs,1.615637461
+🍛,🍛,0x1f35b,0.346,0.269,0.385,0.038,curry and rice,Miscellaneous Symbols and Pictographs,0.147279742
+🐇,🐇,0x1f407,0.192,0.385,0.423,0.231,rabbit,Miscellaneous Symbols and Pictographs,0.919528963
+🔞,🔞,0x1f51e,0.269,0.5,0.231,-0.038,no one under eighteen symbol,Miscellaneous Symbols and Pictographs,-0.147279742
+👵,👵,0x1f475,0.231,0.115,0.654,0.423,older woman,Miscellaneous Symbols and Pictographs,1.807988402
+◀,◀,0x25c0,0.038,0.654,0.308,0.269,black left-pointing triangle,Geometric Shapes,1.081703936
+🔙,🔙,0x1f519,0.115,0.577,0.308,0.192,back with leftwards arrow above,Miscellaneous Symbols and Pictographs,0.757710054
+🌵,🌵,0x1f335,0.269,0.269,0.462,0.192,cactus,Miscellaneous Symbols and Pictographs,0.757710054
+🐽,🐽,0x1f43d,0.24,0.4,0.36,0.12,pig nose,Miscellaneous Symbols and Pictographs,0.468140838
+🍮,🍮,0x1f36e,0.44,0.24,0.32,-0.12,custard,Miscellaneous Symbols and Pictographs,-0.468140838
+🎇,🎇,0x1f387,0.08,0.16,0.76,0.68,firework sparkler,Miscellaneous Symbols and Pictographs,3.591905583
+🐎,🐎,0x1f40e,0.12,0.36,0.52,0.4,horse,Miscellaneous Symbols and Pictographs,1.690308509
+➔,➔,0x2794,0.16,0.8,0.04,-0.12,heavy wide-headed rightwards arrow,Dingbats,-0.468140838
+💶,💶,0x1f4b6,0.16,0.68,0.16,0,banknote with euro sign,Miscellaneous Symbols and Pictographs,0
+🐤,🐤,0x1f424,0.08,0.32,0.6,0.52,baby chick,Miscellaneous Symbols and Pictographs,2.357797813
+╩,╩,0x2569,0.04,0.72,0.24,0.2,box drawings double up and horizontal,Box Drawing,0.790569415
+🛀,🛀,0x1f6c0,0.292,0.292,0.417,0.125,bath,Transport and Map Symbols,0.487950036
+🌑,🌑,0x1f311,0.125,0.292,0.583,0.458,new moon symbol,Miscellaneous Symbols and Pictographs,1.995412563
+🚲,🚲,0x1f6b2,0.083,0.458,0.458,0.375,bicycle,Transport and Map Symbols,1.566698904
+🐑,🐑,0x1f411,0.292,0.583,0.125,-0.167,sheep,Miscellaneous Symbols and Pictographs,-0.656000502
+🏁,🏁,0x1f3c1,0.042,0.417,0.542,0.5,chequered flag,Miscellaneous Symbols and Pictographs,2.236067977
+🍞,🍞,0x1f35e,0.292,0.375,0.333,0.042,bread,Miscellaneous Symbols and Pictographs,0.162808961
+🎾,🎾,0x1f3be,0.125,0.208,0.667,0.542,tennis racquet and ball,Miscellaneous Symbols and Pictographs,2.49787091
+╚,╚,0x255a,0.042,0.625,0.333,0.292,box drawings double up and right,Box Drawing,1.182444036
+🈹,🈹,0x1f239,0.083,0.542,0.375,0.292,squared cjk unified ideograph-5272,Enclosed Ideographic Supplement,1.182444036
+🐳,🐳,0x1f433,0.217,0.435,0.348,0.13,spouting whale,Miscellaneous Symbols and Pictographs,0.507797004
+👮,👮,0x1f46e,0.478,0.391,0.13,-0.348,police officer,Miscellaneous Symbols and Pictographs,-1.437659801
+☹,☹,0x2639,0.652,0.217,0.13,-0.522,frowning face,Miscellaneous Symbols,-2.370253835
+🐵,🐵,0x1f435,0.087,0.348,0.565,0.478,monkey face,Miscellaneous Symbols and Pictographs,2.107662447
+✪,✪,0x272a,0.043,0.609,0.348,0.304,circled white star,Dingbats,1.235878558
+◕,◕,0x25d5,0.043,0.478,0.478,0.435,circle with all but upper left quadrant black,Geometric Shapes,1.871047065
+🗼,🗼,0x1f5fc,0.087,0.304,0.609,0.522,tokyo tower,Miscellaneous Symbols and Pictographs,2.370253835
+▐,▐,0x2590,0.217,0.696,0.087,-0.13,right half block,Block Elements,-0.507797004
+♠,♠,0x2660,0.043,0.609,0.348,0.304,black spade suit,Miscellaneous Symbols,1.235878558
+┳,┳,0x2533,0.478,0.391,0.13,-0.348,box drawings heavy down and horizontal,Box Drawing,-1.437659801
+👺,👺,0x1f47a,0.409,0.364,0.227,-0.182,japanese goblin,Miscellaneous Symbols and Pictographs,-0.716855509
+🐚,🐚,0x1f41a,0.091,0.591,0.318,0.227,spiral shell,Miscellaneous Symbols and Pictographs,0.90273329
+👂,👂,0x1f442,0.364,0.409,0.227,-0.136,ear,Miscellaneous Symbols and Pictographs,-0.531665526
+🗽,🗽,0x1f5fd,0.091,0.5,0.409,0.318,statue of liberty,Miscellaneous Symbols and Pictographs,1.299040996
+🍵,🍵,0x1f375,0.182,0.273,0.545,0.364,teacup without handle,Miscellaneous Symbols and Pictographs,1.513600527
+🆒,🆒,0x1f192,0.045,0.545,0.409,0.364,squared cool,Enclosed Alphanumeric Supplement,1.513600527
+🍯,🍯,0x1f36f,0.364,0.227,0.409,0.045,honey pot,Miscellaneous Symbols and Pictographs,0.174460982
+🐺,🐺,0x1f43a,0.136,0.5,0.364,0.227,wolf face,Miscellaneous Symbols and Pictographs,0.90273329
+⇨,⇨,0x21e8,0.045,0.455,0.5,0.455,rightwards white arrow,Arrows,1.978915629
+➨,➨,0x27a8,0.136,0.591,0.273,0.136,heavy concave-pointed black rightwards arrow,Dingbats,0.531665526
+🌓,🌓,0x1f313,0.045,0.318,0.636,0.591,first quarter moon symbol,Miscellaneous Symbols and Pictographs,2.837503243
+🔒,🔒,0x1f512,0.273,0.273,0.455,0.182,lock,Miscellaneous Symbols and Pictographs,0.716855509
+╬,╬,0x256c,0.318,0.5,0.182,-0.136,box drawings double vertical and horizontal,Box Drawing,-0.531665526
+👳,👳,0x1f473,0.143,0.095,0.762,0.619,man with turban,Miscellaneous Symbols and Pictographs,3.052462704
+🌂,🌂,0x1f302,0.143,0.476,0.381,0.238,closed umbrella,Miscellaneous Symbols and Pictographs,0.949040571
+🚌,🚌,0x1f68c,0.143,0.524,0.333,0.19,bus,Transport and Map Symbols,0.749520025
+♩,♩,0x2669,0.048,0.381,0.571,0.524,quarter note,Miscellaneous Symbols,2.382763598
+🍡,🍡,0x1f361,0.286,0.476,0.238,-0.048,dango,Miscellaneous Symbols and Pictographs,-0.186117732
+❥,❥,0x2765,0.048,0.667,0.286,0.238,rotated heavy black heart bullet,Dingbats,0.949040571
+🎡,🎡,0x1f3a1,0.095,0.524,0.381,0.286,ferris wheel,Miscellaneous Symbols and Pictographs,1.155958047
+💌,💌,0x1f48c,0.15,0.2,0.65,0.5,love letter,Miscellaneous Symbols and Pictographs,2.236067977
+🐩,🐩,0x1f429,0.05,0.55,0.4,0.35,poodle,Miscellaneous Symbols and Pictographs,1.447071904
+🌜,🌜,0x1f31c,0.05,0.4,0.55,0.5,last quarter moon with face,Miscellaneous Symbols and Pictographs,2.236067977
+⌚,⌚,0x231a,0.15,0.5,0.35,0.2,watch,Miscellaneous Technical,0.790569415
+🚿,🚿,0x1f6bf,0.1,0.2,0.7,0.6,shower,Transport and Map Symbols,2.90473751
+🐖,🐖,0x1f416,0.05,0.75,0.2,0.15,pig,Miscellaneous Symbols and Pictographs,0.58759556
+🔆,🔆,0x1f506,0.05,0.35,0.6,0.55,high brightness symbol,Miscellaneous Symbols and Pictographs,2.550563927
+🌛,🌛,0x1f31b,0.05,0.35,0.6,0.55,first quarter moon with face,Miscellaneous Symbols and Pictographs,2.550563927
+💂,💂,0x1f482,0.45,0.25,0.3,-0.15,guardsman,Miscellaneous Symbols and Pictographs,-0.58759556
+🐔,🐔,0x1f414,0.1,0.5,0.4,0.3,chicken,Miscellaneous Symbols and Pictographs,1.217996914
+🙎,🙎,0x1f64e,0.45,0.15,0.4,-0.05,person with pouting face,Emoticons,-0.193891684
+🏩,🏩,0x1f3e9,0.158,0.263,0.579,0.421,love hotel,Miscellaneous Symbols and Pictographs,1.79759315
+🇫,🇫,0x1f1eb,0.053,0.421,0.526,0.474,regional indicator symbol letter f,Enclosed Alphanumeric Supplement,2.084886213
+🔨,🔨,0x1f528,0.368,0.368,0.263,-0.105,hammer,Miscellaneous Symbols and Pictographs,-0.408923691
+📢,📢,0x1f4e2,0.053,0.474,0.474,0.421,public address loudspeaker,Miscellaneous Symbols and Pictographs,1.79759315
+🐦,🐦,0x1f426,0.053,0.474,0.474,0.421,bird,Miscellaneous Symbols and Pictographs,1.79759315
+🐲,🐲,0x1f432,0.158,0.737,0.105,-0.053,dragon face,Miscellaneous Symbols and Pictographs,-0.205557025
+♻,♻,0x267b,0.053,0.421,0.526,0.474,black universal recycling symbol,Miscellaneous Symbols,2.084886213
+🌘,🌘,0x1f318,0.053,0.316,0.632,0.579,waning crescent moon symbol,Miscellaneous Symbols and Pictographs,2.750376068
+🍐,🍐,0x1f350,0.316,0.211,0.474,0.158,pear,Miscellaneous Symbols and Pictographs,0.619715546
+🌔,🌔,0x1f314,0.053,0.316,0.632,0.579,waxing gibbous moon symbol,Miscellaneous Symbols and Pictographs,2.750376068
+╥,╥,0x2565,0.368,0.158,0.474,0.105,box drawings down double and horizontal single,Box Drawing,0.408923691
+❊,❊,0x274a,0.053,0.895,0.053,0,eight teardrop-spoked propeller asterisk,Dingbats,0
+👖,👖,0x1f456,0.111,0.444,0.444,0.333,jeans,Miscellaneous Symbols and Pictographs,1.367766213
+🚺,🚺,0x1f6ba,0.167,0.5,0.333,0.167,womens symbol,Transport and Map Symbols,0.656000502
+😗,😗,0x1f617,0.111,0.167,0.722,0.611,kissing face,Emoticons,2.989263979
+🎭,🎭,0x1f3ad,0.333,0.333,0.333,0,performing arts,Miscellaneous Symbols and Pictographs,0
+🐄,🐄,0x1f404,0.167,0.389,0.444,0.278,cow,Miscellaneous Symbols and Pictographs,1.120872979
+◟,◟,0x25df,0.167,0.722,0.111,-0.056,lower left quadrant circular arc,Geometric Shapes,-0.217227948
+🍢,🍢,0x1f362,0.333,0.444,0.222,-0.111,oden,Miscellaneous Symbols and Pictographs,-0.432574285
+🎨,🎨,0x1f3a8,0.111,0.611,0.278,0.167,artist palette,Miscellaneous Symbols and Pictographs,0.656000502
+⬇,⬇,0x2b07,0.167,0.278,0.556,0.389,downwards black arrow,Miscellaneous Symbols and Arrows,1.635398153
+🚼,🚼,0x1f6bc,0.056,0.333,0.611,0.556,baby symbol,Transport and Map Symbols,2.590741845
+⛲,⛲,0x26f2,0.111,0.722,0.167,0.056,fountain,Miscellaneous Symbols,0.217227948
+▁,▁,0x2581,0.056,0.889,0.056,0,lower one eighth block,Block Elements,0
+🇴,🇴,0x1f1f4,0.056,0.556,0.389,0.333,regional indicator symbol letter o,Enclosed Alphanumeric Supplement,1.367766213
+🌗,🌗,0x1f317,0.056,0.278,0.667,0.611,last quarter moon symbol,Miscellaneous Symbols and Pictographs,2.989263979
+🌖,🌖,0x1f316,0.056,0.278,0.667,0.611,waning gibbous moon symbol,Miscellaneous Symbols and Pictographs,2.989263979
+🔅,🔅,0x1f505,0.056,0.056,0.889,0.833,low brightness symbol,Miscellaneous Symbols and Pictographs,5.831109043
+👜,👜,0x1f45c,0.176,0.412,0.412,0.235,handbag,Miscellaneous Symbols and Pictographs,0.93637389
+🐌,🐌,0x1f40c,0.059,0.235,0.706,0.647,snail,Miscellaneous Symbols and Pictographs,3.286364707
+💼,💼,0x1f4bc,0.118,0.235,0.647,0.529,briefcase,Miscellaneous Symbols and Pictographs,2.414277046
+🚕,🚕,0x1f695,0.235,0.529,0.235,0,taxi,Transport and Map Symbols,0
+🐹,🐹,0x1f439,0.235,0.235,0.529,0.294,hamster face,Miscellaneous Symbols and Pictographs,1.19130639
+🌠,🌠,0x1f320,0.176,0.118,0.706,0.529,shooting star,Miscellaneous Symbols and Pictographs,2.414277046
+🐈,🐈,0x1f408,0.059,0.588,0.353,0.294,cat,Miscellaneous Symbols and Pictographs,1.19130639
+⇧,⇧,0x21e7,0.059,0.765,0.176,0.118,upwards white arrow,Arrows,0.46022737
+☎,☎,0x260e,0.176,0.647,0.176,0,black telephone,Miscellaneous Symbols,0
+🌁,🌁,0x1f301,0.118,0.588,0.294,0.176,foggy,Miscellaneous Symbols and Pictographs,0.692454163
+⚫,⚫,0x26ab,0.235,0.294,0.471,0.235,medium black circle,Miscellaneous Symbols,0.93637389
+♧,♧,0x2667,0.059,0.412,0.529,0.471,club suit,Miscellaneous Symbols,2.06791348
+🏰,🏰,0x1f3f0,0.118,0.471,0.412,0.294,european castle,Miscellaneous Symbols and Pictographs,1.19130639
+🚵,🚵,0x1f6b5,0.059,0.529,0.412,0.353,mountain bicyclist,Transport and Map Symbols,1.46123241
+🎢,🎢,0x1f3a2,0.118,0.294,0.588,0.471,roller coaster,Miscellaneous Symbols and Pictographs,2.06791348
+🎷,🎷,0x1f3b7,0.059,0.235,0.706,0.647,saxophone,Miscellaneous Symbols and Pictographs,3.286364707
+🎐,🎐,0x1f390,0.059,0.706,0.235,0.176,wind chime,Miscellaneous Symbols and Pictographs,0.692454163
+┈,┈,0x2508,0.765,0.059,0.176,-0.588,box drawings light quadruple dash horizontal,Box Drawing,-2.815458295
+╗,╗,0x2557,0.059,0.529,0.412,0.353,box drawings double down and left,Box Drawing,1.46123241
+╱,╱,0x2571,0.059,0.882,0.059,0,box drawings light diagonal upper right to lower left,Box Drawing,0
+🌇,🌇,0x1f307,0.063,0.375,0.563,0.5,sunset over buildings,Miscellaneous Symbols and Pictographs,2.236067977
+⏰,⏰,0x23f0,0.188,0.188,0.625,0.438,alarm clock,Miscellaneous Technical,1.887001039
+⇩,⇩,0x21e9,0.063,0.875,0.063,0,downwards white arrow,Arrows,0
+🚂,🚂,0x1f682,0.063,0.625,0.313,0.25,steam locomotive,Transport and Map Symbols,1
+◠,◠,0x25e0,0.063,0.438,0.5,0.438,upper half circle,Geometric Shapes,1.887001039
+🎿,🎿,0x1f3bf,0.125,0.375,0.5,0.375,ski and ski boot,Miscellaneous Symbols and Pictographs,1.566698904
+✦,✦,0x2726,0.063,0.813,0.125,0.063,black four pointed star,Dingbats,0.244483611
+🆔,🆔,0x1f194,0.063,0.125,0.813,0.75,squared id,Enclosed Alphanumeric Supplement,4.391550328
+⛪,⛪,0x26ea,0.188,0.5,0.313,0.125,church,Miscellaneous Symbols,0.487950036
+🌒,🌒,0x1f312,0.063,0.313,0.625,0.563,waxing crescent moon symbol,Miscellaneous Symbols and Pictographs,2.638358559
+🐪,🐪,0x1f42a,0.063,0.313,0.625,0.563,dromedary camel,Miscellaneous Symbols and Pictographs,2.638358559
+╔,╔,0x2554,0.063,0.625,0.313,0.25,box drawings double down and right,Box Drawing,1
+╝,╝,0x255d,0.063,0.438,0.5,0.438,box drawings double up and left,Box Drawing,1.887001039
+👔,👔,0x1f454,0.2,0.267,0.533,0.333,necktie,Miscellaneous Symbols and Pictographs,1.367766213
+🔱,🔱,0x1f531,0.267,0.4,0.333,0.067,trident emblem,Miscellaneous Symbols and Pictographs,0.260074277
+🆓,🆓,0x1f193,0.067,0.667,0.267,0.2,squared free,Enclosed Alphanumeric Supplement,0.790569415
+🐋,🐋,0x1f40b,0.2,0.4,0.4,0.2,whale,Miscellaneous Symbols and Pictographs,0.790569415
+▽,▽,0x25bd,0.133,0.333,0.533,0.4,down-pointing triangle,Geometric Shapes,1.690308509
+▂,▂,0x2582,0.067,0.867,0.067,0,lower one quarter block,Block Elements,0
+🐛,🐛,0x1f41b,0.2,0.333,0.467,0.267,bug,Miscellaneous Symbols and Pictographs,1.073041691
+👕,👕,0x1f455,0.133,0.333,0.533,0.4,t-shirt,Miscellaneous Symbols and Pictographs,1.690308509
+🚋,🚋,0x1f68b,0.067,0.8,0.133,0.067,tram car,Transport and Map Symbols,0.260074277
+💳,💳,0x1f4b3,0.133,0.333,0.533,0.4,credit card,Miscellaneous Symbols and Pictographs,1.690308509
+🌆,🌆,0x1f306,0.2,0.467,0.333,0.133,cityscape at dusk,Miscellaneous Symbols and Pictographs,0.519723993
+🏧,🏧,0x1f3e7,0.067,0.067,0.867,0.8,automated teller machine,Miscellaneous Symbols and Pictographs,5.163977795
+💡,💡,0x1f4a1,0.067,0.267,0.667,0.6,electric light bulb,Miscellaneous Symbols and Pictographs,2.90473751
+🔹,🔹,0x1f539,0.2,0.467,0.333,0.133,small blue diamond,Miscellaneous Symbols and Pictographs,0.519723993
+⬅,⬅,0x2b05,0.067,0.4,0.533,0.467,leftwards black arrow,Miscellaneous Symbols and Arrows,2.045426361
+🍠,🍠,0x1f360,0.4,0.2,0.4,0,roasted sweet potato,Miscellaneous Symbols and Pictographs,0
+🐫,🐫,0x1f42b,0.067,0.533,0.4,0.333,bactrian camel,Miscellaneous Symbols and Pictographs,1.367766213
+🏪,🏪,0x1f3ea,0.2,0.533,0.267,0.067,convenience store,Miscellaneous Symbols and Pictographs,0.260074277
+۩,۩,0x6e9,0.067,0.867,0.067,0,arabic place of sajdah,Arabic,0
+🇱,🇱,0x1f1f1,0.067,0.467,0.467,0.4,regional indicator symbol letter l,Enclosed Alphanumeric Supplement,1.690308509
+📹,📹,0x1f4f9,0.143,0.286,0.571,0.429,video camera,Miscellaneous Symbols and Pictographs,1.839368536
+👞,👞,0x1f45e,0.143,0.286,0.571,0.429,mans shoe,Miscellaneous Symbols and Pictographs,1.839368536
+🚑,🚑,0x1f691,0.286,0.357,0.357,0.071,ambulance,Transport and Map Symbols,0.275677541
+🆘,🆘,0x1f198,0.357,0.214,0.429,0.071,squared sos,Enclosed Alphanumeric Supplement,0.275677541
+👚,👚,0x1f45a,0.071,0.286,0.643,0.571,womans clothes,Miscellaneous Symbols and Pictographs,2.693797833
+🚍,🚍,0x1f68d,0.357,0.214,0.429,0.071,oncoming bus,Transport and Map Symbols,0.275677541
+□,□,0x25a1,0.571,0.071,0.357,-0.214,square,Geometric Shapes,-0.848474484
+🐂,🐂,0x1f402,0.143,0.571,0.286,0.143,ox,Miscellaneous Symbols and Pictographs,0.559587675
+🚣,🚣,0x1f6a3,0.071,0.286,0.643,0.571,rowboat,Transport and Map Symbols,2.693797833
+✳,✳,0x2733,0.071,0.857,0.071,0,eight spoked asterisk,Dingbats,0
+🏉,🏉,0x1f3c9,0.071,0.357,0.571,0.5,rugby football,Miscellaneous Symbols and Pictographs,2.236067977
+🗻,🗻,0x1f5fb,0.071,0.286,0.643,0.571,mount fuji,Miscellaneous Symbols and Pictographs,2.693797833
+🐀,🐀,0x1f400,0.143,0.571,0.286,0.143,rat,Miscellaneous Symbols and Pictographs,0.559587675
+╦,╦,0x2566,0.071,0.5,0.429,0.357,box drawings double down and horizontal,Box Drawing,1.480193304
+⛺,⛺,0x26fa,0.154,0.231,0.615,0.462,tent,Miscellaneous Symbols,2.017542913
+🐕,🐕,0x1f415,0.154,0.462,0.385,0.231,dog,Miscellaneous Symbols and Pictographs,0.919528963
+🏂,🏂,0x1f3c2,0.154,0.308,0.538,0.385,snowboarder,Miscellaneous Symbols and Pictographs,1.615637461
+👡,👡,0x1f461,0.154,0.308,0.538,0.385,womans sandal,Miscellaneous Symbols and Pictographs,1.615637461
+📻,📻,0x1f4fb,0.154,0.385,0.462,0.308,radio,Miscellaneous Symbols and Pictographs,1.253832223
+✒,✒,0x2712,0.154,0.462,0.385,0.231,black nib,Dingbats,0.919528963
+🌰,🌰,0x1f330,0.077,0.308,0.615,0.538,chestnut,Miscellaneous Symbols and Pictographs,2.471887775
+🏢,🏢,0x1f3e2,0.077,0.692,0.231,0.154,office building,Miscellaneous Symbols and Pictographs,0.603640353
+🎒,🎒,0x1f392,0.154,0.231,0.615,0.462,school satchel,Miscellaneous Symbols and Pictographs,2.017542913
+⌒,⌒,0x2312,0.077,0.308,0.615,0.538,arc,Miscellaneous Technical,2.471887775
+🏫,🏫,0x1f3eb,0.538,0.154,0.308,-0.231,school,Miscellaneous Symbols and Pictographs,-0.919528963
+📴,📴,0x1f4f4,0.154,0.077,0.769,0.615,mobile phone off,Miscellaneous Symbols and Pictographs,3.020675807
+🚢,🚢,0x1f6a2,0.308,0.154,0.538,0.231,ship,Transport and Map Symbols,0.919528963
+🚚,🚚,0x1f69a,0.231,0.615,0.154,-0.077,delivery truck,Transport and Map Symbols,-0.299107741
+🐉,🐉,0x1f409,0.077,0.692,0.231,0.154,dragon,Miscellaneous Symbols and Pictographs,0.603640353
+❒,❒,0x2752,0.077,0.615,0.308,0.231,upper right shadowed white square,Dingbats,0.919528963
+🐊,🐊,0x1f40a,0.231,0.462,0.308,0.077,crocodile,Miscellaneous Symbols and Pictographs,0.299107741
+🔔,🔔,0x1f514,0.077,0.077,0.846,0.769,bell,Miscellaneous Symbols and Pictographs,4.659100332
+◢,◢,0x25e2,0.077,0.231,0.692,0.615,black lower right triangle,Geometric Shapes,3.020675807
+🏥,🏥,0x1f3e5,0.167,0.417,0.417,0.25,hospital,Miscellaneous Symbols and Pictographs,1
+❔,❔,0x2754,0.333,0.333,0.333,0,question mark ornament,Dingbats,0
+🚖,🚖,0x1f696,0.333,0.417,0.25,-0.083,oncoming taxi,Transport and Map Symbols,-0.322570632
+🃏,🃏,0x1f0cf,0.333,0.25,0.417,0.083,playing card black joker,Playing Cards,0.322570632
+▼,▼,0x25bc,0.25,0.417,0.333,0.083,black down-pointing triangle,Geometric Shapes,0.322570632
+▌,▌,0x258c,0.417,0.417,0.167,-0.25,left half block,Block Elements,-1
+☛,☛,0x261b,0.083,0.5,0.417,0.333,black right pointing index,Miscellaneous Symbols,1.367766213
+✩,✩,0x2729,0.083,0.833,0.083,0,stress outlined white star,Dingbats,0
+💒,💒,0x1f492,0.083,0.333,0.583,0.5,wedding,Miscellaneous Symbols and Pictographs,2.236067977
+🚤,🚤,0x1f6a4,0.083,0.5,0.417,0.333,speedboat,Transport and Map Symbols,1.367766213
+🐐,🐐,0x1f410,0.083,0.417,0.5,0.417,goat,Miscellaneous Symbols and Pictographs,1.776897932
+■,■,0x25a0,0.5,0.25,0.25,-0.25,black square,Geometric Shapes,-1
+🔚,🔚,0x1f51a,0.167,0.333,0.5,0.333,end with leftwards arrow above,Miscellaneous Symbols and Pictographs,1.367766213
+🎻,🎻,0x1f3bb,0.083,0.5,0.417,0.333,violin,Miscellaneous Symbols and Pictographs,1.367766213
+🔷,🔷,0x1f537,0.083,0.667,0.25,0.167,large blue diamond,Miscellaneous Symbols and Pictographs,0.656000502
+🚦,🚦,0x1f6a6,0.25,0.417,0.333,0.083,vertical traffic light,Transport and Map Symbols,0.322570632
+🔓,🔓,0x1f513,0.333,0.25,0.417,0.083,open lock,Miscellaneous Symbols and Pictographs,0.322570632
+🎽,🎽,0x1f3bd,0.083,0.417,0.5,0.417,running shirt with sash,Miscellaneous Symbols and Pictographs,1.776897932
+📅,📅,0x1f4c5,0.25,0.333,0.417,0.167,calendar,Miscellaneous Symbols and Pictographs,0.656000502
+🎺,🎺,0x1f3ba,0.167,0.083,0.75,0.583,trumpet,Miscellaneous Symbols and Pictographs,2.77910976
+✯,✯,0x272f,0.083,0.833,0.083,0,pinwheel star,Dingbats,0
+🍈,🍈,0x1f348,0.583,0.167,0.25,-0.333,melon,Miscellaneous Symbols and Pictographs,-1.367766213
+✉,✉,0x2709,0.167,0.417,0.417,0.25,envelope,Dingbats,1
+╣,╣,0x2563,0.083,0.833,0.083,0,box drawings double vertical and left,Box Drawing,0
+◤,◤,0x25e4,0.083,0.083,0.833,0.75,black upper left triangle,Geometric Shapes,4.391550328
+○,○,0x25cb,0.091,0.364,0.545,0.455,circle,Geometric Shapes,1.978915629
+🍼,🍼,0x1f37c,0.182,0.182,0.636,0.455,baby bottle,Miscellaneous Symbols and Pictographs,1.978915629
+📀,📀,0x1f4c0,0.182,0.545,0.273,0.091,dvd,Miscellaneous Symbols and Pictographs,0.353909895
+🚛,🚛,0x1f69b,0.273,0.636,0.091,-0.182,articulated lorry,Transport and Map Symbols,-0.716855509
+📓,📓,0x1f4d3,0.182,0.455,0.364,0.182,notebook,Miscellaneous Symbols and Pictographs,0.716855509
+☉,☉,0x2609,0.091,0.636,0.273,0.182,sun,Miscellaneous Symbols,0.716855509
+💴,💴,0x1f4b4,0.364,0.455,0.182,-0.182,banknote with yen sign,Miscellaneous Symbols and Pictographs,-0.716855509
+┼,┼,0x253c,0.273,0.455,0.273,0,box drawings light vertical and horizontal,Box Drawing,0
+🐃,🐃,0x1f403,0.091,0.818,0.091,0,water buffalo,Miscellaneous Symbols and Pictographs,0
+➰,➰,0x27b0,0.455,0.182,0.364,-0.091,curly loop,Dingbats,-0.353909895
+🔌,🔌,0x1f50c,0.364,0.364,0.273,-0.091,electric plug,Miscellaneous Symbols and Pictographs,-0.353909895
+🍄,🍄,0x1f344,0.273,0.455,0.273,0,mushroom,Miscellaneous Symbols and Pictographs,0
+📕,📕,0x1f4d5,0.182,0.455,0.364,0.182,closed book,Miscellaneous Symbols and Pictographs,0.716855509
+📣,📣,0x1f4e3,0.182,0.273,0.545,0.364,cheering megaphone,Miscellaneous Symbols and Pictographs,1.513600527
+🚓,🚓,0x1f693,0.091,0.545,0.364,0.273,police car,Transport and Map Symbols,1.099073836
+🐗,🐗,0x1f417,0.091,0.364,0.545,0.455,boar,Miscellaneous Symbols and Pictographs,1.978915629
+↪,↪,0x21aa,0.091,0.727,0.182,0.091,rightwards arrow with hook,Arrows,0.353909895
+⛳,⛳,0x26f3,0.091,0.182,0.727,0.636,flag in hole,Miscellaneous Symbols,3.19198178
+┻,┻,0x253b,0.636,0.091,0.273,-0.364,box drawings heavy up and horizontal,Box Drawing,-1.513600527
+┛,┛,0x251b,0.091,0.273,0.636,0.545,box drawings heavy up and left,Box Drawing,2.517515723
+┃,┃,0x2503,0.091,0.455,0.455,0.364,box drawings heavy vertical,Box Drawing,1.513600527
+👱,👱,0x1f471,0.2,0.5,0.3,0.1,person with blond hair,Miscellaneous Symbols and Pictographs,0.389249472
+⏳,⏳,0x23f3,0.4,0.2,0.4,0,hourglass with flowing sand,Miscellaneous Technical,0
+💺,💺,0x1f4ba,0.2,0.4,0.4,0.2,seat,Miscellaneous Symbols and Pictographs,0.790569415
+🏇,🏇,0x1f3c7,0.4,0.3,0.3,-0.1,horse racing,Miscellaneous Symbols and Pictographs,-0.389249472
+☻,☻,0x263b,0.2,0.4,0.4,0.2,black smiling face,Miscellaneous Symbols,0.790569415
+📞,📞,0x1f4de,0.1,0.4,0.5,0.4,telephone receiver,Miscellaneous Symbols and Pictographs,1.690308509
+Ⓐ,Ⓐ,0x24b6,0.3,0.5,0.2,-0.1,circled latin capital letter a,Enclosed Alphanumerics,-0.389249472
+🌉,🌉,0x1f309,0.1,0.3,0.6,0.5,bridge at night,Miscellaneous Symbols and Pictographs,2.236067977
+🚩,🚩,0x1f6a9,0.4,0.4,0.2,-0.2,triangular flag on post,Transport and Map Symbols,-0.790569415
+✎,✎,0x270e,0.1,0.3,0.6,0.5,lower right pencil,Dingbats,2.236067977
+📃,📃,0x1f4c3,0.1,0.4,0.5,0.4,page with curl,Miscellaneous Symbols and Pictographs,1.690308509
+🏨,🏨,0x1f3e8,0.1,0.6,0.3,0.2,hotel,Miscellaneous Symbols and Pictographs,0.790569415
+📌,📌,0x1f4cc,0.6,0.2,0.2,-0.4,pushpin,Miscellaneous Symbols and Pictographs,-1.690308509
+♎,♎,0x264e,0.3,0.5,0.2,-0.1,libra,Miscellaneous Symbols,-0.389249472
+💷,💷,0x1f4b7,0.1,0.4,0.5,0.4,banknote with pound sign,Miscellaneous Symbols and Pictographs,1.690308509
+🚄,🚄,0x1f684,0.1,0.3,0.6,0.5,high-speed train,Transport and Map Symbols,2.236067977
+▲,▲,0x25b2,0.1,0.3,0.6,0.5,black up-pointing triangle,Geometric Shapes,2.236067977
+⛵,⛵,0x26f5,0.1,0.3,0.6,0.5,sailboat,Miscellaneous Symbols,2.236067977
+🔸,🔸,0x1f538,0.1,0.6,0.3,0.2,small orange diamond,Miscellaneous Symbols and Pictographs,0.790569415
+⌛,⌛,0x231b,0.3,0.3,0.4,0.1,hourglass,Miscellaneous Technical,0.389249472
+🚜,🚜,0x1f69c,0.1,0.1,0.8,0.7,tractor,Transport and Map Symbols,3.796283012
+🐆,🐆,0x1f406,0.1,0.5,0.4,0.3,leopard,Miscellaneous Symbols and Pictographs,1.217996914
+👒,👒,0x1f452,0.2,0.4,0.4,0.2,womans hat,Miscellaneous Symbols and Pictographs,0.790569415
+❕,❕,0x2755,0.2,0.4,0.4,0.2,exclamation mark ornament,Dingbats,0.790569415
+🔛,🔛,0x1f51b,0.2,0.2,0.6,0.4,on with exclamation mark with left right arrow above,Miscellaneous Symbols and Pictographs,1.690308509
+♢,♢,0x2662,0.1,0.5,0.4,0.3,diamond suit,Miscellaneous Symbols,1.217996914
+🇲,🇲,0x1f1f2,0.1,0.4,0.5,0.4,regional indicator symbol letter m,Enclosed Alphanumeric Supplement,1.690308509
+❅,❅,0x2745,0.1,0.2,0.7,0.6,tight trifoliate snowflake,Dingbats,2.90473751
+👝,👝,0x1f45d,0.222,0.222,0.556,0.333,pouch,Miscellaneous Symbols and Pictographs,1.367766213
+✞,✞,0x271e,0.111,0.444,0.444,0.333,shadowed white latin cross,Dingbats,1.367766213
+◡,◡,0x25e1,0.111,0.556,0.333,0.222,lower half circle,Geometric Shapes,0.881806311
+🎋,🎋,0x1f38b,0.222,0.111,0.667,0.444,tanabata tree,Miscellaneous Symbols and Pictographs,1.919144197
+👥,👥,0x1f465,0.222,0.333,0.444,0.222,busts in silhouette,Miscellaneous Symbols and Pictographs,0.881806311
+📵,📵,0x1f4f5,0.222,0.444,0.333,0.111,no mobile phones,Miscellaneous Symbols and Pictographs,0.432574285
+🐡,🐡,0x1f421,0.111,0.556,0.333,0.222,blowfish,Miscellaneous Symbols and Pictographs,0.881806311
+◆,◆,0x25c6,0.111,0.222,0.667,0.556,black diamond,Geometric Shapes,2.590741845
+🏯,🏯,0x1f3ef,0.111,0.667,0.222,0.111,japanese castle,Miscellaneous Symbols and Pictographs,0.432574285
+☂,☂,0x2602,0.222,0.556,0.222,0,umbrella,Miscellaneous Symbols,0
+🔭,🔭,0x1f52d,0.111,0.444,0.444,0.333,telescope,Miscellaneous Symbols and Pictographs,1.367766213
+🎪,🎪,0x1f3aa,0.111,0.556,0.333,0.222,circus tent,Miscellaneous Symbols and Pictographs,0.881806311
+🐜,🐜,0x1f41c,0.111,0.333,0.556,0.444,ant,Miscellaneous Symbols and Pictographs,1.919144197
+♌,♌,0x264c,0.111,0.222,0.667,0.556,leo,Miscellaneous Symbols,2.590741845
+☐,☐,0x2610,0.778,0.111,0.111,-0.667,ballot box,Miscellaneous Symbols,-3.467221179
+👷,👷,0x1f477,0.222,0.333,0.444,0.222,construction worker,Miscellaneous Symbols and Pictographs,0.881806311
+↳,↳,0x21b3,0.111,0.778,0.111,0,downwards arrow with tip rightwards,Arrows,0
+🔈,🔈,0x1f508,0.111,0.556,0.333,0.222,speaker,Miscellaneous Symbols and Pictographs,0.881806311
+📄,📄,0x1f4c4,0.111,0.111,0.778,0.667,page facing up,Miscellaneous Symbols and Pictographs,3.467221179
+📍,📍,0x1f4cd,0.222,0.444,0.333,0.111,round pushpin,Miscellaneous Symbols and Pictographs,0.432574285
+🚐,🚐,0x1f690,0.111,0.222,0.667,0.556,minibus,Transport and Map Symbols,2.590741845
+🚔,🚔,0x1f694,0.222,0.556,0.222,0,oncoming police car,Transport and Map Symbols,0
+🌋,🌋,0x1f30b,0.111,0.333,0.556,0.444,volcano,Miscellaneous Symbols and Pictographs,1.919144197
+📡,📡,0x1f4e1,0.222,0.333,0.444,0.222,satellite antenna,Miscellaneous Symbols and Pictographs,0.881806311
+⏩,⏩,0x23e9,0.111,0.667,0.222,0.111,black right-pointing double triangle,Miscellaneous Technical,0.432574285
+🚳,🚳,0x1f6b3,0.111,0.111,0.778,0.667,no bicycles,Transport and Map Symbols,3.467221179
+✘,✘,0x2718,0.111,0.222,0.667,0.556,heavy ballot x,Dingbats,2.590741845
+۞,۞,0x6de,0.111,0.778,0.111,0,arabic start of rub el hizb,Arabic,0
+☾,☾,0x263e,0.111,0.778,0.111,0,last quarter moon,Miscellaneous Symbols,0
+🅰,🅰,0x1f170,0.222,0.333,0.444,0.222,negative squared latin capital letter a,Enclosed Alphanumeric Supplement,0.881806311
+📥,📥,0x1f4e5,0.111,0.778,0.111,0,inbox tray,Miscellaneous Symbols and Pictographs,0
+🇼,🇼,0x1f1fc,0.111,0.444,0.444,0.333,regional indicator symbol letter w,Enclosed Alphanumeric Supplement,1.367766213
+┓,┓,0x2513,0.111,0.333,0.556,0.444,box drawings heavy down and left,Box Drawing,1.919144197
+┣,┣,0x2523,0.111,0.333,0.556,0.444,box drawings heavy vertical and right,Box Drawing,1.919144197
+Ⓛ,Ⓛ,0x24c1,0.111,0.444,0.444,0.333,circled latin capital letter l,Enclosed Alphanumerics,1.367766213
+Ⓔ,Ⓔ,0x24ba,0.111,0.444,0.444,0.333,circled latin capital letter e,Enclosed Alphanumerics,1.367766213
+🔦,🔦,0x1f526,0.125,0.75,0.125,0,electric torch,Miscellaneous Symbols and Pictographs,0
+👤,👤,0x1f464,0.125,0.25,0.625,0.5,bust in silhouette,Miscellaneous Symbols and Pictographs,2.236067977
+🚁,🚁,0x1f681,0.125,0.625,0.25,0.125,helicopter,Transport and Map Symbols,0.487950036
+🎠,🎠,0x1f3a0,0.125,0.375,0.5,0.375,carousel horse,Miscellaneous Symbols and Pictographs,1.566698904
+🐁,🐁,0x1f401,0.375,0.5,0.125,-0.25,mouse,Miscellaneous Symbols and Pictographs,-1
+📗,📗,0x1f4d7,0.25,0.375,0.375,0.125,green book,Miscellaneous Symbols and Pictographs,0.487950036
+┐,┐,0x2510,0.375,0.375,0.25,-0.125,box drawings light down and left,Box Drawing,-0.487950036
+☮,☮,0x262e,0.375,0.25,0.375,0,peace symbol,Miscellaneous Symbols,0
+♂,♂,0x2642,0.125,0.625,0.25,0.125,male sign,Miscellaneous Symbols,0.487950036
+◞,◞,0x25de,0.25,0.5,0.25,0,lower right quadrant circular arc,Geometric Shapes,0
+📯,📯,0x1f4ef,0.25,0.625,0.125,-0.125,postal horn,Miscellaneous Symbols and Pictographs,-0.487950036
+🔩,🔩,0x1f529,0.25,0.375,0.375,0.125,nut and bolt,Miscellaneous Symbols and Pictographs,0.487950036
+👢,👢,0x1f462,0.125,0.25,0.625,0.5,womans boots,Miscellaneous Symbols and Pictographs,2.236067977
+◂,◂,0x25c2,0.125,0.5,0.375,0.25,black left-pointing small triangle,Geometric Shapes,1
+📰,📰,0x1f4f0,0.25,0.25,0.5,0.25,newspaper,Miscellaneous Symbols and Pictographs,1
+📶,📶,0x1f4f6,0.125,0.5,0.375,0.25,antenna with bars,Miscellaneous Symbols and Pictographs,1
+🚥,🚥,0x1f6a5,0.25,0.5,0.25,0,horizontal traffic light,Transport and Map Symbols,0
+🌄,🌄,0x1f304,0.125,0.625,0.25,0.125,sunrise over mountains,Miscellaneous Symbols and Pictographs,0.487950036
+🗾,🗾,0x1f5fe,0.125,0.5,0.375,0.25,silhouette of japan,Miscellaneous Symbols and Pictographs,1
+🔶,🔶,0x1f536,0.125,0.5,0.375,0.25,large orange diamond,Miscellaneous Symbols and Pictographs,1
+🏤,🏤,0x1f3e4,0.125,0.5,0.375,0.25,european post office,Miscellaneous Symbols and Pictographs,1
+🎩,🎩,0x1f3a9,0.125,0.5,0.375,0.25,top hat,Miscellaneous Symbols and Pictographs,1
+Ⓜ,Ⓜ,0x24c2,0.25,0.25,0.5,0.25,circled latin capital letter m,Enclosed Alphanumerics,1
+🔧,🔧,0x1f527,0.625,0.125,0.25,-0.375,wrench,Miscellaneous Symbols and Pictographs,-1.566698904
+🐅,🐅,0x1f405,0.125,0.625,0.25,0.125,tiger,Miscellaneous Symbols and Pictographs,0.487950036
+♮,♮,0x266e,0.125,0.625,0.25,0.125,music natural sign,Miscellaneous Symbols,0.487950036
+🅾,🅾,0x1f17e,0.375,0.375,0.25,-0.125,negative squared latin capital letter o,Enclosed Alphanumeric Supplement,-0.487950036
+🔄,🔄,0x1f504,0.125,0.75,0.125,0,anticlockwise downwards and upwards open circle arrows,Miscellaneous Symbols and Pictographs,0
+☄,☄,0x2604,0.125,0.75,0.125,0,comet,Miscellaneous Symbols,0
+☨,☨,0x2628,0.125,0.75,0.125,0,cross of lorraine,Miscellaneous Symbols,0
+😮\u200d💨,😮💨,unknown,0,0,0,0.35,face exhaling,Shazib,1.447071904
+😃,😃,tbc,0,0,1,0.65,grinning face with big eyes,Emoticons,3.312706744
+👌,👌,0x1f44c,0,0,1,0.563,ok hand,Miscellaneous Symbols and Pictographs,2.638358559
+🙏,🙏,0x1f64f,0,0,0,0.417,folded hands,Emoticons,1.776897932
+☝️,☝️,tbc,0,0,0,0.309,index pointing up,Miscellaneous Symbols,1.258332061
