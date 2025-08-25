@@ -44,11 +44,12 @@ This line plot captures how sentiment predictions vary across the sequence of in
 
 ---
 
-## 📦 Box Plot: Model Score Distributions
+## 📦 Influencer Rankings by Mean Scores across Models
 
-Box plots reveal the spread and consistency of sentiment scores for each model.
-
-![Box Plot](visualizations/plot_5.png)
+Influecner Rankings vary by the models used for sentiment analysis when ranked. Since RoBERTa has the least error and the best performance, its rankings can be considered most accurate.
+![Influencer Ranking](visualizations/plot_34.png)
+![Influencer Ranking](visualizations/plot_35.png)
+![Influencer Ranking](visualizations/plot_36.png)
 
 ---
 
