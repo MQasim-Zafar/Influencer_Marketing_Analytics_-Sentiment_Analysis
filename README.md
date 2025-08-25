@@ -10,7 +10,7 @@ Two core Jupyter Notebooks drive this analysis:
 - **`Analysis_and_Visualisations.ipynb`**  
   Conducts data exploration, preprocessing, model evaluation, and visualizations to understand sentiment dynamics in influencer-generated content.
 
-- **`Comparison_of_effect_of_emojis_on_sentiment_analysis_(BERT_and_RoBERTa)_CLEAN.ipynb`**  
+- **`Comparison_of_effect_of_emojis_on_sentiment_analysis_(BERT_and_RoBERTa).ipynb`**  
   Focuses on the impact of emojis by comparing model performance with and without emoji data, using both BERT and RoBERTa architectures.
 
 ## Project Structure
