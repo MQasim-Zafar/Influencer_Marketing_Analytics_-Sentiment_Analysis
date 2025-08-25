@@ -2,6 +2,9 @@
 
 This research explores how Natural Language Processing (NLP) models handle **emojis** in the context of **sentiment analysis** on **influencer social media pages**, particularly Twitter. The project conducts a **comparative evaluation of sentiment classification performance** — both with and without emojis — using VADER, DistilBERT, and RoBERTa.
 
+[![View Analysis and Visualizations](https://img.shields.io/badge/View-Data%20Visualizations-blue?style=for-the-badge&logo=plotly)](https://github.com/MQasim-Zafar/Research-Project-Influencer-Sentiment-Analysis/blob/main/Findings%20and%20Visualisations/README.md)
+
+
 ## 📌 Objectives
 
 - Investigate how emojis affect sentiment analysis outcomes.
@@ -43,9 +46,6 @@ All models were used **without fine-tuning**, reflecting their **default perform
 - **Mean Absolute Error (MAE)**
 - **Mean Squared Error (MSE)**
 - **Root Mean Squared Error (RMSE)**
-
-[![View Visualizations](https://img.shields.io/badge/View-Data%20Visualizations-blue?style=for-the-badge&logo=plotly)](https://github.com/MQasim-Zafar/Research-Project-Influencer-Sentiment-Analysis/blob/main/Findings%20and%20Visualisations/README.md)
-
 
 ---
 
