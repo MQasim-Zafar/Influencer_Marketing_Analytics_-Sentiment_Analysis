@@ -44,6 +44,9 @@ All models were used **without fine-tuning**, reflecting their **default perform
 - **Mean Squared Error (MSE)**
 - **Root Mean Squared Error (RMSE)**
 
+[![View Visualizations](https://img.shields.io/badge/View-Data%20Visualizations-blue?style=for-the-badge&logo=plotly)](https://github.com/MQasim-Zafar/Research-Project-Influencer-Sentiment-Analysis/blob/main/Findings%20and%20Visualisations/README.md)
+
+
 ---
 
 ## 🧠 Key Findings
