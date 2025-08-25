@@ -74,9 +74,6 @@ Research-Project-Influencer-Sentiment-Analysis/
 ├── influencer_ranking/ # Scripts for ranking influencers based on sentiment
 └── README.md # Project overview and instructions
 
-yaml
-Copy code
-
 ---
 
 ## 🚀 Getting Started
@@ -86,128 +83,9 @@ Copy code
    git clone https://github.com/MQasim-Zafar/Research-Project-Influencer-Sentiment-Analysis.git
 Install required packages (e.g., Transformers, Scikit-learn, NLTK):
 
-bash
-Copy code
 pip install -r requirements.txt
 Run analysis notebooks or scripts from the root folder:
 
-bash
-Copy code
-jupyter notebook
-🧾 Citation
-If you use or reference this research in academic work, please cite the repository or reach out to the author via the GitHub profile.
-
-📬 Contact
-For questions or collaboration inquiries, please reach out via GitHub Issues.
-
-vbnet
-Copy code
-
-Let me know if you want to include badges, environment setup, Colab links, or a project license.
-
-You said:
-Include colab links
-
-ChatGPT said:
-Here's the updated README.md with Colab links included. You can replace the placeholder URLs with the actual links to your notebooks once they’re uploaded to Google Colab or shared via GitHub.
-
-markdown
-Copy code
-# Influencer Sentiment Analysis with Emojis 🧠📊✨
-
-This research explores how Natural Language Processing (NLP) models handle **emojis** in the context of **sentiment analysis** on **influencer social media pages**, particularly Twitter. The project conducts a **comparative evaluation of sentiment classification performance** — both with and without emojis — using VADER, DistilBERT, and RoBERTa.
-
-## 📌 Objectives
-
-- Investigate how emojis affect sentiment analysis outcomes.
-- Compare sentiment classification models on text with and without emojis.
-- Determine which model most accurately reflects human sentiment perception.
-- Use sentiment analysis results to **rank influencers** for potential use in influencer marketing campaigns.
-
----
-
-## 🔍 Research Overview
-
-### 🧾 Data Collection
-- **Source**: Mined user comments from Twitter influencer pages.
-- **Preprocessing**: Comments were preprocessed into two datasets — one **including emojis** and one **excluding emojis**.
-
-### 🛠️ Models Used
-1. **VADER** – Rule-based, lexicon-based model
-2. **DistilBERT** – Transformer-based, distilled version of BERT
-3. **RoBERTa** – A robustly optimized BERT variant
-
-All models were used **without fine-tuning**, reflecting their **default performance** out-of-the-box.
-
-### 🧪 Ground Truth Evaluation
-- A **survey-based test set** was manually created by sampling real user comments.
-- Human annotators labeled:
-  - **Sentiment Category**: Positive, Neutral, Negative
-  - **Sentiment Intensity**: High, Medium, Low
-
-### 📈 Evaluation Metrics
-
-#### Sentiment Label Classification:
-- **Accuracy**
-- **Precision**
-- **Recall**
-- **F1 Score**
-
-#### Sentiment Score Prediction:
-- **Mean Absolute Deviation (MAD)**
-- **Mean Absolute Error (MAE)**
-- **Mean Squared Error (MSE)**
-- **Root Mean Squared Error (RMSE)**
-
----
-
-## 🧠 Key Findings
-
-- **RoBERTa outperformed all other models** on both datasets (with and without emojis).
-- **VADER ranked second**, offering solid baseline performance.
-- **DistilBERT was the least accurate**, especially in capturing sentiment intensity.
-- **Emojis improved sentiment classification accuracy** for all models.
-- **Inclusion of emojis led to better alignment with human sentiment perception**.
-
----
-
-## 🧲 Influencer Ranking
-
-Using RoBERTa (the best-performing model), influencers were **ranked by descending Mean Sentiment**. The influencer with the **highest positive sentiment** was recommended as the most suitable for **influencer marketing campaigns**.
-
----
-
-## 📁 Repository Structure
-
-Research-Project-Influencer-Sentiment-Analysis/
-│
-├── data/ # Contains raw and preprocessed datasets
-├── models/ # Scripts for using VADER, DistilBERT, RoBERTa
-├── evaluation/ # Metric calculation and performance comparison
-├── visualizations/ # Plots and graphs of results
-├── ground_truth/ # Survey data and labeling methodology
-├── influencer_ranking/ # Scripts for ranking influencers based on sentiment
-└── README.md # Project overview and instructions
-
-yaml
-Copy code
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MQasim-Zafar/Research-Project-Influencer-Sentiment-Analysis.git
-Install required packages (e.g., Transformers, Scikit-learn, NLTK):
-
-bash
-Copy code
-pip install -r requirements.txt
-Run analysis notebooks or scripts from the root folder:
-
-bash
-Copy code
 jupyter notebook
 ⚙️ Run on Google Colab
 Click the links below to run the notebooks directly in Google Colab:
@@ -217,9 +95,6 @@ Click the links below to run the notebooks directly in Google Colab:
 📓 Influencer Sentiment Ranking Notebook
 
 📌 Note: Make sure to connect your Google Drive to access the datasets if required.
-
-🧾 Citation
-If you use or reference this research in academic work, please cite the repository or reach out to the author via the GitHub profile.
 
 📬 Contact
 For questions or collaboration inquiries, please open an issue or contact via GitHub.
