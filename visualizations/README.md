@@ -4,11 +4,11 @@ This section presents key evaluation metrics and visual insights from the sentim
 
 ---
 
-## 🌀 Radar Chart: Model Evaluation Metrics
+## 🌀Histogram: Model Evaluation Metrics across Scores
 
-This radar chart compares four error metrics — MAE, MSE, MAD, and RMSE — across all models. A more compact shape indicates better performance.
-
-![Brand Distribution](Plots/plot_0.png)
+This Histogram chart compares four error metrics — MAE, MSE, MAD, and RMSE — across all models both with emojis and without indicating better sentiment analysis performance when emojis are included.
+![Brand Distribution](Plots/plot_1.png)
+![Brand Distribution](Plots/plot_2.png)
 
 ---
 
