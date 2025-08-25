@@ -1,5 +1,9 @@
 # Influencer Sentiment Analysis with Emojis 🧠📊✨
 
+While social media metrics often focus on followers, likes, shares, and subscribers, **user comments** are an often overlooked data source that can provide valuable insights into audience sentiment toward influencers — crucial when recruiting influencers for marketing campaigns. Ideally, higher levels of positive sentiment would reflect better audience perception of products promoted by the influencer, and vice versa.
+
+Moreover, in sentiment analysis, **emojis** have become increasingly important as a medium for users to convey nuanced emotions and attitudes.
+
 This research explores how Natural Language Processing (NLP) models handle **emojis** in the context of **sentiment analysis** on **influencer social media pages**, particularly Twitter. The project conducts a **comparative evaluation of sentiment classification performance** — both with and without emojis — using VADER, DistilBERT, and RoBERTa.
 
 [![View Analysis and Visualizations](https://img.shields.io/badge/View-Data%20Visualizations-blue?style=for-the-badge&logo=plotly)](https://github.com/MQasim-Zafar/Research-Project-Influencer-Sentiment-Analysis/blob/main/Findings%20and%20Visualisations/README.md)
