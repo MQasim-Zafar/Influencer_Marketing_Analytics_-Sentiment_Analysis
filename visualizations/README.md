@@ -6,7 +6,7 @@ This section presents key evaluation metrics and visual insights from the sentim
 
 ## 🌀Histogram: Model Evaluation Metrics across Scores
 
-This Histogram chart compares four error metrics — MAE, MSE, MAD, and RMSE — across all models both with emojis and without indicating better sentiment analysis performance when emojis are included.
+These Histogram charts compares models sentiment classification both with emojis and without, indicating thier individual performance in accurately labeling sentiment as positive or negative, as compared to the Survey results that are used as ground-truth sentiment labels. These histograms further allow an easy analysis of the models skewness errors e.g BERT tends to gravitate towards neutural labels rather than polarized labels
 ![Brand Distribution](Plots/plot_1.png)
 ![Brand Distribution](Plots/plot_2.png)
 
