@@ -3,7 +3,7 @@ README
 
 ## Overview
 
-This project explores sentiment analysis techniques tailored for influencer marketing content. By leveraging NLP models like BERT and RoBERTa, it investigates how emojis impact sentiment classification performance—an important factor in social media communication.
+This project explores sentiment analysis techniques tailored for influencer marketing content. By leveraging NLP models like BERT and RoBERTa, it investigates how emojis impact sentiment classification performance, an important factor in social media communication.
 
 Two core Jupyter Notebooks drive this analysis:
 
