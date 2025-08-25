@@ -41,30 +41,30 @@ Influencer marketing content—rich in emojis, shorthand, and nuanced emotional 
 
 (Optional) GPU support for model inference/training acceleration.
 
-Getting Started
+##Getting Started
 
-Clone the repo:
+#Clone the repo:
 
 git clone https://github.com/MQasim-Zafar/Sentiment-analysis-in-NLP-models-for-Influencer-Marketing.git
 cd Sentiment-analysis-in-NLP-models-for-Influencer-Marketing
 
 
-Set up the environment:
+#Set up the environment:
 
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
 
-Run the analysis notebooks:
+#Run the analysis notebooks:
 
 jupyter notebook
 
 
 Then open each of the notebooks, explore the content, and run the cells sequentially.
 
-Notebook Highlights
-Analysis_and_Visualisations.ipynb
+##Notebook Highlights
+#Analysis_and_Visualisations.ipynb
 
 Loads the dataset (provide instructions if a dataset is needed).
 
@@ -74,7 +74,7 @@ Evaluates baseline models and displays performance metrics (accuracy, F1-score, 
 
 Includes charts that illustrate sentiment trends and patterns.
 
-Comparison_of_effect_of_emojis_on_sentiment_analysis_(BERT_and_RoBERTa)_CLEAN.ipynb
+#Comparison_of_effect_of_emojis_on_sentiment_analysis_(BERT_and_RoBERTa)_CLEAN.ipynb
 
 Preprocesses text data, with and without emojis.
 
@@ -82,7 +82,7 @@ Runs fine-tuned BERT and RoBERTa models on both versions.
 
 Compares classification performance through metrics and charts.
 
-How to Interpret Results
+##How to Interpret Results
 
 Observe if models trained on content including emojis perform better in capturing true sentiment.
 
@@ -90,7 +90,7 @@ Examine visual comparisons (e.g., bar plots, confusion matrices) between models 
 
 Assess which architecture—BERT or RoBERTa—handles influencer-style sentiment more effectively.
 
-Contributing
+##Contributing
 
 Contributions are welcome! You can:
 
@@ -102,10 +102,10 @@ Extend analysis to other social media platforms or languages.
 
 Improve documentation and environment reproducibility.
 
-License
+##License
 
-Specify your license here (e.g., MIT License). If none is selected yet, consider adding one to clarify reuse permissions.
+MIT License
 
 Contact
 
-For questions or collaborations, feel free to open an issue or reach out to [author/contact details].
+For questions or collaborations, feel free to open an issue or reach out to m.qasimzafar111@gmail.com
