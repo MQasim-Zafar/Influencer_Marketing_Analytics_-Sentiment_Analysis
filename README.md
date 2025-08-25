@@ -6,7 +6,10 @@ Moreover, in sentiment analysis, **emojis** have become increasingly important a
 
 This project explores how Natural Language Processing (NLP) models handle **emojis** in the context of **sentiment analysis** on **influencer social media pages**, particularly Twitter. The project conducts a **comparative evaluation of sentiment classification performance** — both with and without emojis — using VADER, DistilBERT, and RoBERTa.
 
+
 [![View Analysis and Visualizations](https://img.shields.io/badge/View-Data%20Visualizations-blue?style=for-the-badge&logo=plotly)](https://github.com/MQasim-Zafar/Research-Project-Influencer-Sentiment-Analysis/blob/main/Findings%20and%20Visualisations/README.md)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pEUzvYbgb6XLLs4lkp2MWPAa_6zVZx0x)
 
 
 ## 📌 Objectives
