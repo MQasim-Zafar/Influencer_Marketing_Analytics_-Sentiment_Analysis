@@ -24,8 +24,13 @@ Accuracy, Precision, Recall and F1 Scores from actual survey responses for each 
 
 ![APRF Bar Plot](Plots/plot_13.png)
 
+## 📦 BoxPlot: Comparing model rankings of inlfuencers with survey rankings using test set
+This boxplot allows for an easy visual comparison of influencers ranked by each models mean sentiment results, as well as the distribution across models.
 
-## 📦 Influencer Rankings by Mean Scores across Models
+![BoxPlot](Plots/plot_31.png)
+
+
+## 📦 Final Influencer Rankings by Mean Scores across Models using dataset
 
 Influencer Rankings by Mean Sent Scores vary by the models used for sentiment analysis. Since RoBERTa has the least error and the best performance, its rankings can be considered most accurate.
 
