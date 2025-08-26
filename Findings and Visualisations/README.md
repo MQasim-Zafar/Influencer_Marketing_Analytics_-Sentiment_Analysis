@@ -49,7 +49,7 @@ The final visualizations below show how influencer rankings shift depending on t
 
 Rankings differ across models.
 
-Since RoBERTa demonstrated the lowest error and highest consistency, its rankings are considered most reliable.
+Since RoBERTa demonstrated the lowest error and highest consistency, its rankings can be considered most reliable.
 
 ![Influencer Ranking](Plots/plot_34.png)
 ![Influencer Ranking](Plots/plot_35.png)
